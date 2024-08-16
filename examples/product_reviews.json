@@ -1,0 +1,456 @@
+{
+  "reviews": [
+    {
+      "review": {
+        "review_id": "7400793560672274181",
+        "rating": 5,
+        "display_text": "จัดส่งไวมากครับ2-3ถึงเลย สวยครับ",
+        "review_timestamp": "1723131529475",
+        "has_origin_text": true,
+        "display_review_text": [
+          {
+            "text_type": 1,
+            "plain_text": "จัดส่งไวมากครับ2-3ถึงเลย สวยครับ"
+          }
+        ],
+        "review_timestamp_fmt": "1 วันก่อน"
+      },
+      "sku_id": "1729678412356880883",
+      "sku_specification": "รายการ: Default",
+      "review_user": {
+        "name": "ด**.",
+        "user_id": ""
+      },
+      "digg_count": 0,
+      "is_digged": false,
+      "is_owner": false,
+      "is_anonymous": true,
+      "product_id": "1729678412356815347",
+      "review_source_type": 0,
+      "review_source_name": "ซื้อบน TikTok แล้ว",
+      "link": "",
+      "is_updated": false
+    },
+    {
+      "review": {
+        "review_id": "7400726498917304070",
+        "rating": 5,
+        "display_text": "ส่งเร็ว ใช้ดี ไวไฟติดง่าย",
+        "images": [
+          {
+            "height": 1200,
+            "width": 1200,
+            "thumb_uri": "tos-maliva-i-dx0w9n1ysr-us/81f4e2d686af49c9aeea2a903e4fb3f0",
+            "thumb_url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/81f4e2d686af49c9aeea2a903e4fb3f0~tplv-o3syd03w52-resize-webp:350:350.webp?from=3525074018",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/81f4e2d686af49c9aeea2a903e4fb3f0~tplv-o3syd03w52-resize-webp:350:350.webp?from=3525074018"
+            ],
+            "uri": "tos-maliva-i-dx0w9n1ysr-us/81f4e2d686af49c9aeea2a903e4fb3f0",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/81f4e2d686af49c9aeea2a903e4fb3f0~tplv-o3syd03w52-resize-webp:1200:1200.webp?from=3525074018",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/81f4e2d686af49c9aeea2a903e4fb3f0~tplv-o3syd03w52-resize-webp:1200:1200.webp?from=3525074018"
+            ]
+          }
+        ],
+        "review_timestamp": "1723115915520",
+        "has_origin_text": true,
+        "display_review_text": [
+          {
+            "text_type": 1,
+            "plain_text": "ส่งเร็ว ใช้ดี ไวไฟติดง่าย"
+          }
+        ],
+        "media": [
+          {
+            "media_type": 1,
+            "image": {
+              "height": 1200,
+              "width": 1200,
+              "thumb_uri": "tos-maliva-i-dx0w9n1ysr-us/81f4e2d686af49c9aeea2a903e4fb3f0",
+              "thumb_url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/81f4e2d686af49c9aeea2a903e4fb3f0~tplv-o3syd03w52-resize-webp:350:350.webp?from=3525074018",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/81f4e2d686af49c9aeea2a903e4fb3f0~tplv-o3syd03w52-resize-webp:350:350.webp?from=3525074018"
+              ],
+              "uri": "tos-maliva-i-dx0w9n1ysr-us/81f4e2d686af49c9aeea2a903e4fb3f0",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/81f4e2d686af49c9aeea2a903e4fb3f0~tplv-o3syd03w52-resize-webp:1200:1200.webp?from=3525074018",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/81f4e2d686af49c9aeea2a903e4fb3f0~tplv-o3syd03w52-resize-webp:1200:1200.webp?from=3525074018"
+              ]
+            }
+          }
+        ],
+        "review_timestamp_fmt": "1 วันก่อน"
+      },
+      "sku_id": "1729678412356880883",
+      "sku_specification": "รายการ: Default",
+      "review_user": {
+        "name": "🩵**🪕",
+        "user_id": ""
+      },
+      "digg_count": 0,
+      "is_digged": false,
+      "is_owner": false,
+      "is_anonymous": true,
+      "product_id": "1729678412356815347",
+      "review_source_type": 0,
+      "review_source_name": "ซื้อบน TikTok แล้ว",
+      "link": "",
+      "is_updated": false
+    },
+    {
+      "review": {
+        "review_id": "7400250875816150789",
+        "rating": 5,
+        "display_text": " ",
+        "review_timestamp": "1723005176316",
+        "reply_main_review": "TCL ขอขอบคุณสำหรับความไว้วางใจในการสั่งซื้อสินค้ากับทางแบรนด์ โดยหวังเป็นอย่างยิ่งว่าจะได้ให้บริการและดูแลคุณลูกค้าอีกครั้งในอนาคต หากคุณลูกค้าต้องการสอบถามข้อมูลหรือต้องการความช่วยเหลือด้านอื่นๆ สามารถติดต่อเราผ่านทางช่องแชทได้เลยนะคะ TCL ยินดีให้บริการค่ะ ️",
+        "has_origin_text": true,
+        "review_timestamp_fmt": "2 วันก่อน"
+      },
+      "sku_id": "1729678412356880883",
+      "sku_specification": "รายการ: Default",
+      "review_user": {
+        "name": "J**t",
+        "user_id": ""
+      },
+      "digg_count": 0,
+      "is_digged": false,
+      "is_owner": false,
+      "is_anonymous": true,
+      "product_id": "1729678412356815347",
+      "review_source_type": 0,
+      "review_source_name": "ซื้อบน TikTok แล้ว",
+      "link": "",
+      "is_updated": false
+    },
+    {
+      "review": {
+        "review_id": "7400016486537512710",
+        "rating": 5,
+        "display_text": " ",
+        "review_timestamp": "1722950602863",
+        "reply_main_review": "TCL ขอขอบคุณสำหรับความไว้วางใจในการสั่งซื้อสินค้ากับทางแบรนด์ โดยหวังเป็นอย่างยิ่งว่าจะได้ให้บริการและดูแลคุณลูกค้าอีกครั้งในอนาคต หากคุณลูกค้าต้องการสอบถามข้อมูลหรือต้องการความช่วยเหลือด้านอื่นๆ สามารถติดต่อเราผ่านทางช่องแชทได้เลยนะคะ TCL ยินดีให้บริการค่ะ ️",
+        "has_origin_text": true,
+        "review_timestamp_fmt": "3 วันก่อน"
+      },
+      "sku_id": "1729678412356880883",
+      "sku_specification": "รายการ: Default",
+      "review_user": {
+        "name": "S** ส**ต พ**ย",
+        "avatar": {
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7063413249747714074~c5_100x100.jpg?lk3s=a5d48078&nonce=36697&refresh_token=3e3073a2f7b14a92a662de763c5ee3c4&x-expires=1723399200&x-signature=4etUl5PrmMnh2yzuQ9hATM6s46w%3D&shp=a5d48078&shcp=8adb1324",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7063413249747714074~c5_100x100.jpeg?lk3s=a5d48078&nonce=32743&refresh_token=b5911b86c67b16203c07c7389f7b42f4&x-expires=1723399200&x-signature=xEgkW9zMgxzGzaV8ZCQVaZ2pd5A%3D&shp=a5d48078&shcp=8adb1324"
+          ]
+        },
+        "link": "aweme://user/profile/7063411366758122498?sec_uid=MS4wLjABAAAAghYOCtKUgbnJngWeK4YZJ39CAZDsO4EaOr1-t4qx-yu213WK0EvXiu2Orx5YBHY_&from_scene=8",
+        "user_id": "7063411366758122498"
+      },
+      "digg_count": 0,
+      "is_digged": false,
+      "is_owner": false,
+      "is_anonymous": false,
+      "product_id": "1729678412356815347",
+      "review_source_type": 0,
+      "review_source_name": "ซื้อบน TikTok แล้ว",
+      "link": "",
+      "is_updated": false
+    },
+    {
+      "review": {
+        "review_id": "7399688412552693510",
+        "rating": 5,
+        "display_text": "ถูกใจมากครับบบ ส่งไว แถมได้คูปองลดราคาด้วย 😁",
+        "images": [
+          {
+            "height": 1200,
+            "width": 1200,
+            "thumb_uri": "tos-maliva-i-dx0w9n1ysr-us/ec9ccd3c46a64c849e83f3077886fd91",
+            "thumb_url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/ec9ccd3c46a64c849e83f3077886fd91~tplv-o3syd03w52-resize-webp:350:350.webp?from=3525074018",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/ec9ccd3c46a64c849e83f3077886fd91~tplv-o3syd03w52-resize-webp:350:350.webp?from=3525074018"
+            ],
+            "uri": "tos-maliva-i-dx0w9n1ysr-us/ec9ccd3c46a64c849e83f3077886fd91",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/ec9ccd3c46a64c849e83f3077886fd91~tplv-o3syd03w52-resize-webp:1200:1200.webp?from=3525074018",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/ec9ccd3c46a64c849e83f3077886fd91~tplv-o3syd03w52-resize-webp:1200:1200.webp?from=3525074018"
+            ]
+          }
+        ],
+        "review_timestamp": "1722874217683",
+        "reply_main_review": "TCL ขอขอบคุณสำหรับความไว้วางใจในการสั่งซื้อสินค้ากับทางแบรนด์ โดยหวังเป็นอย่างยิ่งว่าจะได้ให้บริการและดูแลคุณลูกค้าอีกครั้งในอนาคต หากคุณลูกค้าต้องการสอบถามข้อมูลหรือต้องการความช่วยเหลือด้านอื่นๆ สามารถติดต่อเราผ่านทางช่องแชทได้เลยนะคะ TCL ยินดีให้บริการค่ะ ️",
+        "has_origin_text": true,
+        "display_review_text": [
+          {
+            "text_type": 1,
+            "plain_text": "ถูกใจมากครับบบ ส่งไว แถมได้คูปองลดราคาด้วย 😁"
+          }
+        ],
+        "media": [
+          {
+            "media_type": 1,
+            "image": {
+              "height": 1200,
+              "width": 1200,
+              "thumb_uri": "tos-maliva-i-dx0w9n1ysr-us/ec9ccd3c46a64c849e83f3077886fd91",
+              "thumb_url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/ec9ccd3c46a64c849e83f3077886fd91~tplv-o3syd03w52-resize-webp:350:350.webp?from=3525074018",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/ec9ccd3c46a64c849e83f3077886fd91~tplv-o3syd03w52-resize-webp:350:350.webp?from=3525074018"
+              ],
+              "uri": "tos-maliva-i-dx0w9n1ysr-us/ec9ccd3c46a64c849e83f3077886fd91",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/ec9ccd3c46a64c849e83f3077886fd91~tplv-o3syd03w52-resize-webp:1200:1200.webp?from=3525074018",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/ec9ccd3c46a64c849e83f3077886fd91~tplv-o3syd03w52-resize-webp:1200:1200.webp?from=3525074018"
+              ]
+            }
+          }
+        ],
+        "review_timestamp_fmt": "4 วันก่อน"
+      },
+      "sku_id": "1729678412356880883",
+      "sku_specification": "รายการ: Default",
+      "review_user": {
+        "name": "T**i",
+        "avatar": {
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/37c51b474995e5094b239fd563f1bd57~c5_100x100.jpg?lk3s=a5d48078&nonce=89695&refresh_token=159cc5e4fe2b8f3905bc59efb46b6441&x-expires=1723399200&x-signature=q0YdbIcDVC3FBCiFMVTIOUdtb1g%3D&shp=a5d48078&shcp=8adb1324",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/37c51b474995e5094b239fd563f1bd57~c5_100x100.jpeg?lk3s=a5d48078&nonce=47644&refresh_token=9920ca25af08fba8c3365448705ed885&x-expires=1723399200&x-signature=BxdE8u8KyIPzHEkvd%2FR%2Fz6WeoTI%3D&shp=a5d48078&shcp=8adb1324"
+          ]
+        },
+        "link": "aweme://user/profile/6787288245635777538?sec_uid=MS4wLjABAAAACEUvqffQaPunNSeLVOQbthILULwsdk2CH3GAx8WfRgOObML4hT4msC5AczH4r28-&from_scene=8",
+        "user_id": "6787288245635777538"
+      },
+      "digg_count": 0,
+      "is_digged": false,
+      "is_owner": false,
+      "is_anonymous": false,
+      "product_id": "1729678412356815347",
+      "review_source_type": 0,
+      "review_source_name": "ซื้อบน TikTok แล้ว",
+      "link": "",
+      "is_updated": false
+    },
+    {
+      "review": {
+        "review_id": "7399661434579666693",
+        "rating": 5,
+        "display_text": "ดีมาก ๆ สินค้าไม่เสียหายเลยค่า",
+        "review_timestamp": "1722867936613",
+        "reply_main_review": "TCL ขอขอบคุณสำหรับความไว้วางใจในการสั่งซื้อสินค้ากับทางแบรนด์ โดยหวังเป็นอย่างยิ่งว่าจะได้ให้บริการและดูแลคุณลูกค้าอีกครั้งในอนาคต หากคุณลูกค้าต้องการสอบถามข้อมูลหรือต้องการความช่วยเหลือด้านอื่นๆ สามารถติดต่อเราผ่านทางช่องแชทได้เลยนะคะ TCL ยินดีให้บริการค่ะ ️",
+        "has_origin_text": true,
+        "display_review_text": [
+          {
+            "text_type": 1,
+            "plain_text": "ดีมาก ๆ สินค้าไม่เสียหายเลยค่า"
+          }
+        ],
+        "review_timestamp_fmt": "4 วันก่อน"
+      },
+      "sku_id": "1729678412356880883",
+      "sku_specification": "รายการ: Default",
+      "review_user": {
+        "name": "น**ะ",
+        "user_id": ""
+      },
+      "digg_count": 0,
+      "is_digged": false,
+      "is_owner": false,
+      "is_anonymous": true,
+      "product_id": "1729678412356815347",
+      "review_source_type": 0,
+      "review_source_name": "ซื้อบน TikTok แล้ว",
+      "link": "",
+      "is_updated": false
+    },
+    {
+      "review": {
+        "review_id": "7399636642136475399",
+        "rating": 5,
+        "display_text": "ส่งเร็ว.ถูกใจสินค้ามากค่ะ",
+        "review_timestamp": "1722862166499",
+        "reply_main_review": "TCL ขอขอบคุณสำหรับความไว้วางใจในการสั่งซื้อสินค้ากับทางแบรนด์ โดยหวังเป็นอย่างยิ่งว่าจะได้ให้บริการและดูแลคุณลูกค้าอีกครั้งในอนาคต หากคุณลูกค้าต้องการสอบถามข้อมูลหรือต้องการความช่วยเหลือด้านอื่นๆ สามารถติดต่อเราผ่านทางช่องแชทได้เลยนะคะ TCL ยินดีให้บริการค่ะ ️",
+        "has_origin_text": true,
+        "display_review_text": [
+          {
+            "text_type": 1,
+            "plain_text": "ส่งเร็ว.ถูกใจสินค้ามากค่ะ"
+          }
+        ],
+        "review_timestamp_fmt": "4 วันก่อน"
+      },
+      "sku_id": "1729678412356880883",
+      "sku_specification": "รายการ: Default",
+      "review_user": {
+        "name": "P**r H**g",
+        "avatar": {
+          "url_list": [
+            "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7570bec48dae514b9b24b064f4fe3aef.jpg?lk3s=a5d48078&nonce=69572&refresh_token=f4d1bcc912585ea57c6f356cb38335ab&x-expires=1723399200&x-signature=jlJzvem3wsbxkqusrJLzDQ5GJ7Y%3D&shp=a5d48078&shcp=8adb1324",
+            "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7570bec48dae514b9b24b064f4fe3aef.jpeg?lk3s=a5d48078&nonce=66302&refresh_token=c8cfc5b95411b94772c09f650839f292&x-expires=1723399200&x-signature=oFk%2FIfjYwCtb8s0tfL%2BzPBISz9o%3D&shp=a5d48078&shcp=8adb1324"
+          ]
+        },
+        "link": "aweme://user/profile/6937513840133325825?sec_uid=MS4wLjABAAAAguJkgdg9YEeldVsyVPN4Pf7b74iGsvPqVH8COnlfXCLHEsWQv3QqkAeppzcd0Ere&from_scene=8",
+        "user_id": "6937513840133325825"
+      },
+      "digg_count": 0,
+      "is_digged": false,
+      "is_owner": false,
+      "is_anonymous": false,
+      "product_id": "1729678412356815347",
+      "review_source_type": 0,
+      "review_source_name": "ซื้อบน TikTok แล้ว",
+      "link": "",
+      "is_updated": false
+    },
+    {
+      "review": {
+        "review_id": "7398833485007013638",
+        "rating": 5,
+        "display_text": "เคบอกว่าอยากดูทีวีแล้วได้รับของเลย",
+        "review_timestamp": "1722675164173",
+        "reply_main_review": "TCL ขอขอบคุณสำหรับความไว้วางใจในการสั่งซื้อสินค้ากับทางแบรนด์ โดยหวังเป็นอย่างยิ่งว่าจะได้ให้บริการและดูแลคุณลูกค้าอีกครั้งในอนาคต หากคุณลูกค้าต้องการสอบถามข้อมูลหรือต้องการความช่วยเหลือด้านอื่นๆ สามารถติดต่อเราผ่านทางช่องแชทได้เลยนะคะ TCL ยินดีให้บริการค่ะ ️",
+        "has_origin_text": true,
+        "display_review_text": [
+          {
+            "text_type": 1,
+            "plain_text": "เคบอกว่าอยากดูทีวีแล้วได้รับของเลย"
+          }
+        ],
+        "review_timestamp_fmt": "6 วันก่อน"
+      },
+      "sku_id": "1729678412356880883",
+      "sku_specification": "รายการ: Default",
+      "review_user": {
+        "name": "เ**ะ",
+        "avatar": {
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/1a6fe03eed5d45366042dba68287ae1e~c5_100x100.jpg?lk3s=a5d48078&nonce=27153&refresh_token=f971360a126412fa2f45b6e62b735842&x-expires=1723399200&x-signature=%2ByW%2B1QiVKmg%2B4NK4IX3Cic1om2o%3D&shp=a5d48078&shcp=8adb1324",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-aiso/1a6fe03eed5d45366042dba68287ae1e~c5_100x100.jpeg?lk3s=a5d48078&nonce=48952&refresh_token=b5e688131074da260f557fd2f53c70a1&x-expires=1723399200&x-signature=EXxVD0kXAyKZ2ygi%2BrngHZz4ANw%3D&shp=a5d48078&shcp=8adb1324"
+          ]
+        },
+        "link": "aweme://user/profile/6977152098374829057?sec_uid=MS4wLjABAAAAZffm0FroKpZb7UgvMT0Dtbl5G4SjODcORRo-ZFttM5l4cLcxG_iG9sYtpBopffK0&from_scene=8",
+        "user_id": "6977152098374829057"
+      },
+      "digg_count": 0,
+      "is_digged": false,
+      "is_owner": false,
+      "is_anonymous": false,
+      "product_id": "1729678412356815347",
+      "review_source_type": 0,
+      "review_source_name": "ซื้อบน TikTok แล้ว",
+      "link": "",
+      "is_updated": false
+    },
+    {
+      "review": {
+        "review_id": "7398831052276107014",
+        "rating": 5,
+        "display_text": "คุณภาพของงาน: ภาพสวย คมชัด\nสินค้าราคาเกินคุ้ม ใช้ดีค่ะ\nการออกแบบ: รูปทรงสวย ง่ายต่อการติดตั้ง",
+        "images": [
+          {
+            "height": 1200,
+            "width": 1200,
+            "thumb_uri": "tos-maliva-i-dx0w9n1ysr-us/453cd26829d547589d8c58f092ac4dce",
+            "thumb_url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/453cd26829d547589d8c58f092ac4dce~tplv-o3syd03w52-resize-webp:350:350.webp?from=3525074018",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/453cd26829d547589d8c58f092ac4dce~tplv-o3syd03w52-resize-webp:350:350.webp?from=3525074018"
+            ],
+            "uri": "tos-maliva-i-dx0w9n1ysr-us/453cd26829d547589d8c58f092ac4dce",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/453cd26829d547589d8c58f092ac4dce~tplv-o3syd03w52-resize-webp:1200:1200.webp?from=3525074018",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/453cd26829d547589d8c58f092ac4dce~tplv-o3syd03w52-resize-webp:1200:1200.webp?from=3525074018"
+            ]
+          }
+        ],
+        "review_timestamp": "1722674598238",
+        "reply_main_review": "TCL ขอขอบคุณสำหรับความไว้วางใจในการสั่งซื้อสินค้ากับทางแบรนด์ โดยหวังเป็นอย่างยิ่งว่าจะได้ให้บริการและดูแลคุณลูกค้าอีกครั้งในอนาคต หากคุณลูกค้าต้องการสอบถามข้อมูลหรือต้องการความช่วยเหลือด้านอื่นๆ สามารถติดต่อเราผ่านทางช่องแชทได้เลยนะคะ TCL ยินดีให้บริการค่ะ ️",
+        "has_origin_text": true,
+        "display_review_text": [
+          {
+            "text_type": 2,
+            "tag_key": "คุณภาพของงาน",
+            "tag_text": "ภาพสวย คมชัด"
+          },
+          {
+            "text_type": 1,
+            "plain_text": "สินค้าราคาเกินคุ้ม ใช้ดีค่ะ"
+          },
+          {
+            "text_type": 2,
+            "tag_key": "การออกแบบ",
+            "tag_text": "รูปทรงสวย ง่ายต่อการติดตั้ง"
+          }
+        ],
+        "media": [
+          {
+            "media_type": 1,
+            "image": {
+              "height": 1200,
+              "width": 1200,
+              "thumb_uri": "tos-maliva-i-dx0w9n1ysr-us/453cd26829d547589d8c58f092ac4dce",
+              "thumb_url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/453cd26829d547589d8c58f092ac4dce~tplv-o3syd03w52-resize-webp:350:350.webp?from=3525074018",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/453cd26829d547589d8c58f092ac4dce~tplv-o3syd03w52-resize-webp:350:350.webp?from=3525074018"
+              ],
+              "uri": "tos-maliva-i-dx0w9n1ysr-us/453cd26829d547589d8c58f092ac4dce",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/453cd26829d547589d8c58f092ac4dce~tplv-o3syd03w52-resize-webp:1200:1200.webp?from=3525074018",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-dx0w9n1ysr-us/453cd26829d547589d8c58f092ac4dce~tplv-o3syd03w52-resize-webp:1200:1200.webp?from=3525074018"
+              ]
+            }
+          }
+        ],
+        "review_timestamp_fmt": "6 วันก่อน"
+      },
+      "sku_id": "1729678412356880883",
+      "sku_specification": "รายการ: Default",
+      "review_user": {
+        "name": "C**a",
+        "avatar": {
+          "url_list": [
+            "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7332656708549869589.jpg?lk3s=a5d48078&nonce=95096&refresh_token=7d5987b50bcbd86bfd3952fcfa44f42d&x-expires=1723399200&x-signature=A5rQ7x1nRB0YKzfBHrzGdmHkwEI%3D&shp=a5d48078&shcp=8adb1324",
+            "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7332656708549869589.jpeg?lk3s=a5d48078&nonce=17410&refresh_token=6433c173ce3083ea2163fa3b83f10d19&x-expires=1723399200&x-signature=sSejIXywCe6yTw19rR7YUsU%2FQ2Y%3D&shp=a5d48078&shcp=8adb1324"
+          ]
+        },
+        "link": "aweme://user/profile/6772766320955163649?sec_uid=MS4wLjABAAAAEg9tQRpGOBbqsy8jzCpj2iAvBPe9HBhgt_B5KnIpXIgquycnPds1wVTRuydcbsol&from_scene=8",
+        "user_id": "6772766320955163649"
+      },
+      "digg_count": 0,
+      "is_digged": false,
+      "is_owner": false,
+      "is_anonymous": false,
+      "product_id": "1729678412356815347",
+      "review_source_type": 0,
+      "review_source_name": "ซื้อบน TikTok แล้ว",
+      "link": "",
+      "is_updated": false
+    },
+    {
+      "review": {
+        "review_id": "7398687611864401669",
+        "rating": 4,
+        "display_text": " ",
+        "review_timestamp": "1722641202659",
+        "reply_main_review": "TCL ขอขอบคุณสำหรับความไว้วางใจในการสั่งซื้อสินค้ากับทางแบรนด์ โดยหวังเป็นอย่างยิ่งว่าจะได้ให้บริการและดูแลคุณลูกค้าอีกครั้งในอนาคต หากคุณลูกค้าต้องการสอบถามข้อมูลหรือต้องการความช่วยเหลือด้านอื่นๆ สามารถติดต่อเราผ่านทางช่องแชทได้เลยนะคะ TCL ยินดีให้บริการค่ะ ️",
+        "has_origin_text": true,
+        "review_timestamp_fmt": "6 วันก่อน"
+      },
+      "sku_id": "1729678412356880883",
+      "sku_specification": "รายการ: Default",
+      "review_user": {
+        "name": "🌼**🌼",
+        "user_id": ""
+      },
+      "digg_count": 0,
+      "is_digged": false,
+      "is_owner": false,
+      "is_anonymous": true,
+      "product_id": "1729678412356815347",
+      "review_source_type": 0,
+      "review_source_name": "ซื้อบน TikTok แล้ว",
+      "link": "",
+      "is_updated": false
+    }
+  ],
+  "has_more": true,
+  "cursor": 2
+}

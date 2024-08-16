@@ -1,0 +1,2082 @@
+{
+  "products": [
+    {
+      "type": 1,
+      "product_info": {
+        "product_id": 1730692868756638500,
+        "title": "Labubu ของเล่นตุ๊กตา, ของเล่น Labubu, ของเล่นแบบสอดไส้, พวงกุญแจ, พวงกุญแจ, ของเล่น, เหมาะสำหรับเด็กและนักเรียน, สไตล์ใหม่, PopMart, ตัวละครเด็ก, หัวใจสัตว์ประหลาด, มาการ�ูนร้อน, ไม่สามารถปรับแต่งได้, ของแท้, เกม",
+        "cover": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/254506c585924102a1cb04f57f5f34e5~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+        "img": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/254506c585924102a1cb04f57f5f34e5~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/254506c585924102a1cb04f57f5f34e5~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136"
+        ],
+        "price": 0,
+        "currency": "THB",
+        "elastic_img": null,
+        "source": "global_product",
+        "format_price": "฿153.59",
+        "platform": 5,
+        "schema": "aweme://ec/pdp?biz_type=0&fullScreen=false&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730692868756638369%22%5D%7D&visitReportParams=%7B%22chain_key%22%3A%22%22%2C%22material_id%22%3A%221730692868756638369%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%228647737406549427873%22%7D",
+        "celling_price": "181.99",
+        "floor_price": "153.59",
+        "source_from": 0,
+        "seller_product_info": {
+          "seller_id": 8647737406549428000,
+          "seller_name": "guangzhouliqingmaoyidian2",
+          "icon": {
+            "uri": "tos-maliva-i-o3syd03w52-us/a0499006116a47deb9f66d838557359d",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/a0499006116a47deb9f66d838557359d~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/a0499006116a47deb9f66d838557359d~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039"
+            ],
+            "width": 300,
+            "height": 300,
+            "url_prefix": null
+          },
+          "seller_id_str": "8647737406549427873",
+          "shop_status": 2,
+          "shop_selling_point": null
+        },
+        "label_group": null,
+        "product_id_str": "1730692868756638369",
+        "chain_key": "",
+        "sold_count": 8,
+        "promotion_items": [
+          {
+            "activity_id": "7395091530496608005",
+            "activity_name": "ลด 70% ",
+            "subheaders": null,
+            "icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "style": 2,
+            "activity_type": 11,
+            "voucher_id": "0",
+            "dark_icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "extra_property": [
+              {
+                "property_name": "emphasize_icon",
+                "property_value": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "property_type": 1
+              },
+              {
+                "property_name": "emphasize_name",
+                "property_value": "ลูกค้าใหม่",
+                "property_type": 1
+              },
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          }
+        ],
+        "promotion_logos": [],
+        "currency_symbol": "฿",
+        "format_price_number": "153.59",
+        "format_origin_price_number": "637.18",
+        "discount": "76",
+        "sell_points": null,
+        "is_from_recommendation": false,
+        "long_img": null,
+        "biz_type": 0,
+        "format_discount": "76%",
+        "price_label_items": [],
+        "warehouse_label_items": null,
+        "skc_list": null,
+        "quick_ab_list": null,
+        "filter_search_image": null,
+        "sku_ids": [
+          "1730692868756703905",
+          "1730692868756769441",
+          "1730692868756834977",
+          "1730692868756900513",
+          "1730692868756966049",
+          "1730692868757031585",
+          "1730692868757097121",
+          "1730692868757162657"
+        ],
+        "search_card_add_button_ui": 0,
+        "add_to_cart_button": {
+          "status": 0,
+          "click_hint": "สินค้าจำหน่ายหมดแล้ว",
+          "desc": "เพิ่มลงรถเข็น"
+        },
+        "title_show_line": 2,
+        "line_position_order": null,
+        "promotion_labels": [
+          {
+            "id": "7395091530496608005",
+            "label_type": 11,
+            "text": "ลด 70% ",
+            "extra_text": "ลูกค้าใหม่",
+            "icon": {
+              "label_image_light": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              },
+              "label_image_dark": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              }
+            },
+            "default_style": 2,
+            "status": 0,
+            "claimed_status": 0,
+            "da_info": "{\"coupon_type\":\"0\",\"coupon_name\":\"70\",\"threshold_amount\":\"100\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"platform\\\",\\\"business_type\\\":\\\"min_spend_discount\\\",\\\"user_type\\\":\\\"platform_new_user\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"platform\",\"coupon_style\":\"\",\"shop_id\":\"\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7395091530496608005\",\"task_type\":\"no\",\"residual_claim_quantity\":\"465333\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":1,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"algorithm_product_voucher\"}",
+            "feature": [
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          }
+        ],
+        "buy_now_button": {
+          "status": 0,
+          "desc": "ซื้อเลย"
+        },
+        "view_in_shop_button": {
+          "status": 0,
+          "desc": "ดูในร้านค้า",
+          "schema": "aweme://ec/mall?previous_page=homepage_hot&mall_extra_info=%7B%22mall_landing_page%22%3A%22mallhalfpdp%22%2C%22mall_homepage_visited_type%22%3A%222%22%7D&landing_deeplink=aweme%3A%2F%2Fec%2Fpdp%3Fbiz_type%3D0%26fullScreen%3Dfalse%26orderRequestParams%3D%257B%257D%26requestParams%3D%257B%2522product_id%2522%253A%255B%25221730692868756638369%2522%255D%257D%26visitReportParams%3D%257B%2522chain_key%2522%253A%2522%2522%252C%2522material_id%2522%253A%25221730692868756638369%2522%252C%2522material_type%2522%253A1%252C%2522seller_id%2522%253A%25228647737406549427873%2522%257D&need_overlay=1&after_landing_draw=1"
+        }
+      },
+      "search_result_id": "1730692868756638369",
+      "content_card_style": 0
+    },
+    {
+      "type": 1,
+      "product_info": {
+        "product_id": 1730693810078255900,
+        "title": "Labubu ตุ๊กตาของเล่น, แหวนพวงกุญแจยัดไส้, ของเล่น Labubu คอลเลกชันคอมมอน, สไตล์ใหม่, Pop Mart Labubu หัวใจมอนสเตอร์ Macaroon Enamel Face, หนึ่งกล่อง, ใหม่, ยังไม่ได้เปิด, แบรนด์: Toysgametoysplaything",
+        "cover": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/c9c8f3c39134478db6751cce1e983459~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+        "img": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/c9c8f3c39134478db6751cce1e983459~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/c9c8f3c39134478db6751cce1e983459~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136"
+        ],
+        "price": 0,
+        "currency": "THB",
+        "elastic_img": null,
+        "source": "global_product",
+        "format_price": "฿285.24",
+        "platform": 5,
+        "schema": "aweme://ec/pdp?biz_type=0&fullScreen=false&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730693810078255777%22%5D%7D&visitReportParams=%7B%22chain_key%22%3A%22%22%2C%22material_id%22%3A%221730693810078255777%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%228647737406549427873%22%7D",
+        "celling_price": "285.24",
+        "floor_price": "285.24",
+        "source_from": 0,
+        "seller_product_info": {
+          "seller_id": 8647737406549428000,
+          "seller_name": "guangzhouliqingmaoyidian2",
+          "icon": {
+            "uri": "tos-maliva-i-o3syd03w52-us/a0499006116a47deb9f66d838557359d",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/a0499006116a47deb9f66d838557359d~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/a0499006116a47deb9f66d838557359d~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039"
+            ],
+            "width": 300,
+            "height": 300,
+            "url_prefix": null
+          },
+          "seller_id_str": "8647737406549427873",
+          "shop_status": 2,
+          "shop_selling_point": null
+        },
+        "label_group": null,
+        "product_id_str": "1730693810078255777",
+        "chain_key": "",
+        "sold_count": 0,
+        "promotion_items": [
+          {
+            "activity_id": "7395091530496608005",
+            "activity_name": "ลด 70% ",
+            "subheaders": null,
+            "icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "style": 2,
+            "activity_type": 11,
+            "voucher_id": "0",
+            "dark_icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "extra_property": [
+              {
+                "property_name": "emphasize_icon",
+                "property_value": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "property_type": 1
+              },
+              {
+                "property_name": "emphasize_name",
+                "property_value": "ลูกค้าใหม่",
+                "property_type": 1
+              },
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          }
+        ],
+        "promotion_logos": [],
+        "currency_symbol": "฿",
+        "format_price_number": "285.24",
+        "format_origin_price_number": "900.48",
+        "discount": "68",
+        "sell_points": null,
+        "is_from_recommendation": false,
+        "long_img": null,
+        "biz_type": 0,
+        "format_discount": "68%",
+        "price_label_items": [],
+        "warehouse_label_items": null,
+        "skc_list": null,
+        "quick_ab_list": null,
+        "filter_search_image": null,
+        "sku_ids": [
+          "1730693810078321313"
+        ],
+        "search_card_add_button_ui": 0,
+        "add_to_cart_button": {
+          "status": 0,
+          "click_hint": "สินค้าจำหน่ายหมดแล้ว",
+          "desc": "เพิ่มลงรถเข็น"
+        },
+        "title_show_line": 2,
+        "line_position_order": null,
+        "promotion_labels": [
+          {
+            "id": "7395091530496608005",
+            "label_type": 11,
+            "text": "ลด 70% ",
+            "extra_text": "ลูกค้าใหม่",
+            "icon": {
+              "label_image_light": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              },
+              "label_image_dark": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              }
+            },
+            "default_style": 2,
+            "status": 0,
+            "claimed_status": 0,
+            "da_info": "{\"coupon_type\":\"0\",\"coupon_name\":\"70\",\"threshold_amount\":\"100\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"platform\\\",\\\"business_type\\\":\\\"min_spend_discount\\\",\\\"user_type\\\":\\\"platform_new_user\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"platform\",\"coupon_style\":\"\",\"shop_id\":\"\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7395091530496608005\",\"task_type\":\"no\",\"residual_claim_quantity\":\"465333\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":1,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"algorithm_product_voucher\"}",
+            "feature": [
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          }
+        ],
+        "buy_now_button": {
+          "status": 0,
+          "desc": "ซื้อเลย"
+        },
+        "view_in_shop_button": {
+          "status": 0,
+          "desc": "ดูในร้านค้า",
+          "schema": "aweme://ec/mall?previous_page=homepage_hot&mall_extra_info=%7B%22mall_landing_page%22%3A%22mallhalfpdp%22%2C%22mall_homepage_visited_type%22%3A%222%22%7D&landing_deeplink=aweme%3A%2F%2Fec%2Fpdp%3Fbiz_type%3D0%26fullScreen%3Dfalse%26orderRequestParams%3D%257B%257D%26requestParams%3D%257B%2522product_id%2522%253A%255B%25221730693810078255777%2522%255D%257D%26visitReportParams%3D%257B%2522chain_key%2522%253A%2522%2522%252C%2522material_id%2522%253A%25221730693810078255777%2522%252C%2522material_type%2522%253A1%252C%2522seller_id%2522%253A%25228647737406549427873%2522%257D&need_overlay=1&after_landing_draw=1"
+        }
+      },
+      "search_result_id": "1730693810078255777",
+      "content_card_style": 0
+    },
+    {
+      "type": 1,
+      "product_info": {
+        "product_id": 1730515939807562000,
+        "title": "CRYBABY The Powerpuff Girls Series, POPMART, ตุ๊กตาเด็กร้องไห้, กล่องตาบอด, จี้เครื่องประดับของเล่น",
+        "cover": "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/8409a95b2d254ad79b6b3ac54e7aa83f~tplv-aphluv4xwc-crop-webp:400:400.webp?from=1476391136",
+        "img": [
+          "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/8409a95b2d254ad79b6b3ac54e7aa83f~tplv-aphluv4xwc-crop-webp:400:400.webp?from=1476391136",
+          "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/8409a95b2d254ad79b6b3ac54e7aa83f~tplv-aphluv4xwc-crop-webp:400:400.webp?from=1476391136"
+        ],
+        "price": 0,
+        "currency": "THB",
+        "elastic_img": null,
+        "source": "global_product",
+        "format_price": "฿525.04",
+        "platform": 5,
+        "schema": "aweme://ec/pdp?biz_type=0&fullScreen=false&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730515939807561961%22%5D%7D&visitReportParams=%7B%22chain_key%22%3A%22%22%2C%22material_id%22%3A%221730515939807561961%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%228647631730582848745%22%7D",
+        "celling_price": "525.04",
+        "floor_price": "525.04",
+        "source_from": 0,
+        "seller_product_info": {
+          "seller_id": 8647631730582849000,
+          "seller_name": "Greative trendy play",
+          "icon": {
+            "uri": "tos-alisg-i-aphluv4xwc-sg/82967f1ad1a14faca34befef4ddfce92",
+            "url_list": [
+              "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/82967f1ad1a14faca34befef4ddfce92~tplv-aphluv4xwc-resize-png:300:300.png?from=2422056039",
+              "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/82967f1ad1a14faca34befef4ddfce92~tplv-aphluv4xwc-resize-png:300:300.png?from=2422056039"
+            ],
+            "width": 300,
+            "height": 300,
+            "url_prefix": null
+          },
+          "seller_id_str": "8647631730582848745",
+          "shop_status": 2,
+          "shop_selling_point": null,
+          "shop_creator_info": {
+            "user_id": "7367442050541814790",
+            "role": 1
+          }
+        },
+        "label_group": null,
+        "product_id_str": "1730515939807561961",
+        "chain_key": "",
+        "sold_count": 1493,
+        "promotion_items": [
+          {
+            "activity_id": "7395091514143508229",
+            "activity_name": "ลด 56% ",
+            "subheaders": null,
+            "icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "style": 2,
+            "activity_type": 11,
+            "voucher_id": "0",
+            "dark_icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "extra_property": [
+              {
+                "property_name": "emphasize_icon",
+                "property_value": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "property_type": 1
+              },
+              {
+                "property_name": "emphasize_name",
+                "property_value": "ลูกค้าใหม่",
+                "property_type": 1
+              },
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          }
+        ],
+        "promotion_logos": [],
+        "currency_symbol": "฿",
+        "format_price_number": "525.04",
+        "format_origin_price_number": "733.00",
+        "discount": "28",
+        "product_rating": "4.8",
+        "sell_points": null,
+        "is_from_recommendation": false,
+        "long_img": null,
+        "biz_type": 0,
+        "format_discount": "28%",
+        "price_label_items": [],
+        "warehouse_label_items": null,
+        "skc_list": null,
+        "quick_ab_list": null,
+        "filter_search_image": null,
+        "sku_ids": [
+          "1730515939807627497",
+          "1730515939807693033"
+        ],
+        "search_card_add_button_ui": 0,
+        "add_to_cart_button": {
+          "status": 0,
+          "click_hint": "สินค้าจำหน่ายหมดแล้ว",
+          "desc": "เพิ่มลงรถเข็น"
+        },
+        "review_count": 252,
+        "title_show_line": 2,
+        "line_position_order": null,
+        "promotion_labels": [
+          {
+            "id": "7395091514143508229",
+            "label_type": 11,
+            "text": "ลด 56% ",
+            "extra_text": "ลูกค้าใหม่",
+            "icon": {
+              "label_image_light": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              },
+              "label_image_dark": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              }
+            },
+            "default_style": 2,
+            "status": 0,
+            "claimed_status": 0,
+            "da_info": "{\"coupon_type\":\"0\",\"coupon_name\":\"56\",\"threshold_amount\":\"100\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"platform\\\",\\\"business_type\\\":\\\"min_spend_discount\\\",\\\"user_type\\\":\\\"platform_new_user\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"platform\",\"coupon_style\":\"\",\"shop_id\":\"\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7395091514143508229\",\"task_type\":\"no\",\"residual_claim_quantity\":\"670579\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":1,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"algorithm_product_voucher\"}",
+            "feature": [
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          }
+        ],
+        "buy_now_button": {
+          "status": 0,
+          "desc": "ซื้อเลย"
+        },
+        "view_in_shop_button": {
+          "status": 0,
+          "desc": "ดูในร้านค้า",
+          "schema": "aweme://ec/mall?previous_page=homepage_hot&mall_extra_info=%7B%22mall_landing_page%22%3A%22mallhalfpdp%22%2C%22mall_homepage_visited_type%22%3A%222%22%7D&landing_deeplink=aweme%3A%2F%2Fec%2Fpdp%3Fbiz_type%3D0%26fullScreen%3Dfalse%26orderRequestParams%3D%257B%257D%26requestParams%3D%257B%2522product_id%2522%253A%255B%25221730515939807561961%2522%255D%257D%26visitReportParams%3D%257B%2522chain_key%2522%253A%2522%2522%252C%2522material_id%2522%253A%25221730515939807561961%2522%252C%2522material_type%2522%253A1%252C%2522seller_id%2522%253A%25228647631730582848745%2522%257D&need_overlay=1&after_landing_draw=1"
+        }
+      },
+      "search_result_id": "1730515939807561961",
+      "content_card_style": 0
+    },
+    {
+      "type": 1,
+      "product_info": {
+        "product_id": 1730184813074156000,
+        "title": "The m.o.n.s.t.e.r vinyl face พวงกุญแจบู้",
+        "cover": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/4f6fc87c2259470f8816d9bc2fbce2c7~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+        "img": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/4f6fc87c2259470f8816d9bc2fbce2c7~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/4f6fc87c2259470f8816d9bc2fbce2c7~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136"
+        ],
+        "price": 0,
+        "currency": "THB",
+        "elastic_img": null,
+        "source": "app",
+        "format_price": "฿899.00",
+        "platform": 5,
+        "schema": "aweme://ec/pdp?biz_type=0&fullScreen=false&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730184813074155931%22%5D%7D&visitReportParams=%7B%22chain_key%22%3A%22%22%2C%22material_id%22%3A%221730184813074155931%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227494659109949311387%22%7D",
+        "celling_price": "6149",
+        "floor_price": "899",
+        "source_from": 0,
+        "seller_product_info": {
+          "seller_id": 7494659109949311000,
+          "seller_name": "Mstr Hack Shop",
+          "icon": {
+            "uri": "tos-maliva-i-o3syd03w52-us/9648d2d7f62a43a8bcd0cfe4219d3a0d",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/9648d2d7f62a43a8bcd0cfe4219d3a0d~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/9648d2d7f62a43a8bcd0cfe4219d3a0d~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039"
+            ],
+            "width": 300,
+            "height": 300,
+            "url_prefix": null
+          },
+          "seller_id_str": "7494659109949311387",
+          "shop_status": 2,
+          "shop_selling_point": null,
+          "shop_creator_info": {
+            "user_id": "6969852321472578561",
+            "role": 1
+          }
+        },
+        "label_group": null,
+        "product_id_str": "1730184813074155931",
+        "chain_key": "",
+        "sold_count": 1834,
+        "promotion_items": [
+          {
+            "activity_id": "7395091530496608005",
+            "activity_name": "ลด 70% ",
+            "subheaders": null,
+            "icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "style": 2,
+            "activity_type": 11,
+            "voucher_id": "0",
+            "dark_icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "extra_property": [
+              {
+                "property_name": "emphasize_icon",
+                "property_value": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "property_type": 1
+              },
+              {
+                "property_name": "emphasize_name",
+                "property_value": "ลูกค้าใหม่",
+                "property_type": 1
+              },
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          }
+        ],
+        "promotion_logos": [
+          {
+            "image": {
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/aeb6ccda0b41461f9f896ce980857829~tplv-aphluv4xwc-origin-image.image?from=1476391136",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/aeb6ccda0b41461f9f896ce980857829~tplv-aphluv4xwc-origin-image.image?from=1476391136"
+              ],
+              "width": 201,
+              "height": 45,
+              "url_prefix": null
+            },
+            "promotion_id": "AG 5th batch 0830 TH",
+            "dark_mode_image": {
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/2fa9ef5803ef425faa99526337f4eb1a~tplv-aphluv4xwc-origin-image.image?from=1476391136",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/2fa9ef5803ef425faa99526337f4eb1a~tplv-aphluv4xwc-origin-image.image?from=1476391136"
+              ],
+              "width": 201,
+              "height": 45,
+              "url_prefix": null
+            },
+            "promotion_logo_type": 2,
+            "label_da_info": "promotion_logo_2"
+          }
+        ],
+        "currency_symbol": "฿",
+        "format_price_number": "899.00",
+        "format_origin_price_number": "2,590.00",
+        "discount": "65",
+        "product_rating": "4.9",
+        "sell_points": [
+          {
+            "type": 14,
+            "selling_point_text": "288 ให้ 4+ ดาว",
+            "type_name": "good_rating_num_180d",
+            "cpvb_based_list": null,
+            "statistic_good_rating_based": {
+              "good_rating_count": 288
+            },
+            "selling_point_id": "kg_statistic_1b6d7f61d17b2643b44fc9c10b7a7afe",
+            "is_intelligent_selling_point": true,
+            "selling_point_category_name": "statistic",
+            "selling_point_text_num": "288",
+            "selling_point_show_id": ""
+          }
+        ],
+        "is_from_recommendation": false,
+        "long_img": null,
+        "biz_type": 0,
+        "format_discount": "65%",
+        "price_label_items": [],
+        "warehouse_label_items": null,
+        "skc_list": null,
+        "quick_ab_list": null,
+        "filter_search_image": null,
+        "sku_ids": [
+          "1730184833184663963",
+          "1730184833184729499",
+          "1730189944261151131",
+          "1730189944261216667",
+          "1730189944261282203",
+          "1730189944261347739",
+          "1730189944261413275",
+          "1730189944261478811",
+          "1730486304326715803",
+          "1730486304326781339",
+          "1730486304326846875",
+          "1730486314299132315",
+          "1730486314299197851",
+          "1730486314299263387"
+        ],
+        "search_card_add_button_ui": 0,
+        "add_to_cart_button": {
+          "status": 0,
+          "click_hint": "สินค้าจำหน่ายหมดแล้ว",
+          "desc": "เพิ่มลงรถเข็น"
+        },
+        "review_count": 334,
+        "title_show_line": 2,
+        "line_position_order": null,
+        "promotion_labels": [
+          {
+            "id": "7395091530496608005",
+            "label_type": 11,
+            "text": "ลด 70% ",
+            "extra_text": "ลูกค้าใหม่",
+            "icon": {
+              "label_image_light": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              },
+              "label_image_dark": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              }
+            },
+            "default_style": 2,
+            "status": 0,
+            "claimed_status": 0,
+            "da_info": "{\"coupon_type\":\"0\",\"coupon_name\":\"70\",\"threshold_amount\":\"100\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"platform\\\",\\\"business_type\\\":\\\"min_spend_discount\\\",\\\"user_type\\\":\\\"platform_new_user\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"platform\",\"coupon_style\":\"\",\"shop_id\":\"\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7395091530496608005\",\"task_type\":\"no\",\"residual_claim_quantity\":\"465333\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":1,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"algorithm_product_voucher\"}",
+            "feature": [
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          }
+        ],
+        "buy_now_button": {
+          "status": 0,
+          "desc": "ซื้อเลย"
+        },
+        "view_in_shop_button": {
+          "status": 0,
+          "desc": "ดูในร้านค้า",
+          "schema": "aweme://ec/mall?previous_page=homepage_hot&mall_extra_info=%7B%22mall_landing_page%22%3A%22mallhalfpdp%22%2C%22mall_homepage_visited_type%22%3A%222%22%7D&landing_deeplink=aweme%3A%2F%2Fec%2Fpdp%3Fbiz_type%3D0%26fullScreen%3Dfalse%26orderRequestParams%3D%257B%257D%26requestParams%3D%257B%2522product_id%2522%253A%255B%25221730184813074155931%2522%255D%257D%26visitReportParams%3D%257B%2522chain_key%2522%253A%2522%2522%252C%2522material_id%2522%253A%25221730184813074155931%2522%252C%2522material_type%2522%253A1%252C%2522seller_id%2522%253A%25227494659109949311387%2522%257D&need_overlay=1&after_landing_draw=1"
+        }
+      },
+      "search_result_id": "1730184813074155931",
+      "content_card_style": 0
+    },
+    {
+      "type": 1,
+      "product_info": {
+        "product_id": 1730416128057772000,
+        "title": "Pop mart x Hirono v1 ของแท้100% มีปลายทาง",
+        "cover": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/1f60731c18074bf48e0e64a61d34c4cb~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+        "img": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/1f60731c18074bf48e0e64a61d34c4cb~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/1f60731c18074bf48e0e64a61d34c4cb~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136"
+        ],
+        "price": 0,
+        "currency": "THB",
+        "elastic_img": null,
+        "source": "app",
+        "format_price": "฿370.00",
+        "platform": 5,
+        "schema": "aweme://ec/pdp?biz_type=0&fullScreen=false&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730416128057772038%22%5D%7D&visitReportParams=%7B%22chain_key%22%3A%22%22%2C%22material_id%22%3A%221730416128057772038%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227495605276872640518%22%7D",
+        "celling_price": "370",
+        "floor_price": "370",
+        "source_from": 0,
+        "seller_product_info": {
+          "seller_id": 7495605276872640000,
+          "seller_name": "พลอยไพลินจะเปิดกล่องสุ่ม",
+          "icon": {
+            "uri": "tos-maliva-i-o3syd03w52-us/a0499006116a47deb9f66d838557359d",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/a0499006116a47deb9f66d838557359d~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/a0499006116a47deb9f66d838557359d~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039"
+            ],
+            "width": 300,
+            "height": 300,
+            "url_prefix": null
+          },
+          "seller_id_str": "7495605276872640518",
+          "shop_status": 2,
+          "shop_selling_point": null,
+          "shop_creator_info": {
+            "user_id": "6853423442147984385",
+            "role": 1
+          }
+        },
+        "label_group": null,
+        "product_id_str": "1730416128057772038",
+        "chain_key": "",
+        "sold_count": 25,
+        "promotion_items": [
+          {
+            "activity_id": "7395091530496608005",
+            "activity_name": "ลด 70% ",
+            "subheaders": null,
+            "icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "style": 2,
+            "activity_type": 11,
+            "voucher_id": "0",
+            "dark_icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "extra_property": [
+              {
+                "property_name": "emphasize_icon",
+                "property_value": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "property_type": 1
+              },
+              {
+                "property_name": "emphasize_name",
+                "property_value": "ลูกค้าใหม่",
+                "property_type": 1
+              },
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          }
+        ],
+        "promotion_logos": [],
+        "currency_symbol": "฿",
+        "format_price_number": "370.00",
+        "format_origin_price_number": "520.00",
+        "discount": "29",
+        "product_rating": "5",
+        "sell_points": [
+          {
+            "type": 29,
+            "selling_point_text": "ซื้อสินค้าที่ได้รับคะแนนรีวิวสูง",
+            "type_name": "empty",
+            "cpvb_based_list": null,
+            "selling_point_id": "empty",
+            "is_intelligent_selling_point": true,
+            "selling_point_category_name": "empty",
+            "selling_point_text_num": "",
+            "selling_point_show_id": ""
+          }
+        ],
+        "is_from_recommendation": false,
+        "long_img": null,
+        "biz_type": 0,
+        "format_discount": "29%",
+        "price_label_items": [],
+        "warehouse_label_items": null,
+        "skc_list": null,
+        "quick_ab_list": null,
+        "filter_search_image": null,
+        "sku_ids": [
+          "1730416135490078726"
+        ],
+        "search_card_add_button_ui": 0,
+        "add_to_cart_button": {
+          "status": 0,
+          "click_hint": "สินค้าจำหน่ายหมดแล้ว",
+          "desc": "เพิ่มลงรถเข็น"
+        },
+        "title_show_line": 2,
+        "line_position_order": null,
+        "promotion_labels": [
+          {
+            "id": "7395091530496608005",
+            "label_type": 11,
+            "text": "ลด 70% ",
+            "extra_text": "ลูกค้าใหม่",
+            "icon": {
+              "label_image_light": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              },
+              "label_image_dark": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              }
+            },
+            "default_style": 2,
+            "status": 0,
+            "claimed_status": 0,
+            "da_info": "{\"coupon_type\":\"0\",\"coupon_name\":\"70\",\"threshold_amount\":\"100\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"platform\\\",\\\"business_type\\\":\\\"min_spend_discount\\\",\\\"user_type\\\":\\\"platform_new_user\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"platform\",\"coupon_style\":\"\",\"shop_id\":\"\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7395091530496608005\",\"task_type\":\"no\",\"residual_claim_quantity\":\"465333\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":1,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"algorithm_product_voucher\"}",
+            "feature": [
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          }
+        ],
+        "buy_now_button": {
+          "status": 0,
+          "desc": "ซื้อเลย"
+        },
+        "view_in_shop_button": {
+          "status": 0,
+          "desc": "ดูในร้านค้า",
+          "schema": "aweme://ec/mall?previous_page=homepage_hot&mall_extra_info=%7B%22mall_landing_page%22%3A%22mallhalfpdp%22%2C%22mall_homepage_visited_type%22%3A%222%22%7D&landing_deeplink=aweme%3A%2F%2Fec%2Fpdp%3Fbiz_type%3D0%26fullScreen%3Dfalse%26orderRequestParams%3D%257B%257D%26requestParams%3D%257B%2522product_id%2522%253A%255B%25221730416128057772038%2522%255D%257D%26visitReportParams%3D%257B%2522chain_key%2522%253A%2522%2522%252C%2522material_id%2522%253A%25221730416128057772038%2522%252C%2522material_type%2522%253A1%252C%2522seller_id%2522%253A%25227495605276872640518%2522%257D&need_overlay=1&after_landing_draw=1"
+        }
+      },
+      "search_result_id": "1730416128057772038",
+      "content_card_style": 0
+    },
+    {
+      "type": 1,
+      "product_info": {
+        "product_id": 1730396779767696000,
+        "title": "Powerpuff girls cry baby pop mart",
+        "cover": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/f032b4d7ae9e4adcac7924420c85a96e~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+        "img": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/f032b4d7ae9e4adcac7924420c85a96e~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/f032b4d7ae9e4adcac7924420c85a96e~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136"
+        ],
+        "price": 0,
+        "currency": "THB",
+        "elastic_img": null,
+        "source": "app",
+        "format_price": "฿300.00",
+        "platform": 5,
+        "schema": "aweme://ec/pdp?biz_type=0&fullScreen=false&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730396779767695974%22%5D%7D&visitReportParams=%7B%22chain_key%22%3A%22%22%2C%22material_id%22%3A%221730396779767695974%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227494766250498230886%22%7D",
+        "celling_price": "300",
+        "floor_price": "300",
+        "source_from": 0,
+        "seller_product_info": {
+          "seller_id": 7494766250498231000,
+          "seller_name": "Arttoy.hungryy",
+          "icon": {
+            "uri": "tos-maliva-i-o3syd03w52-us/5eb1f500237240dba8cb56d49b4d9f24",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/5eb1f500237240dba8cb56d49b4d9f24~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/5eb1f500237240dba8cb56d49b4d9f24~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039"
+            ],
+            "width": 300,
+            "height": 300,
+            "url_prefix": null
+          },
+          "seller_id_str": "7494766250498230886",
+          "shop_status": 2,
+          "shop_selling_point": null,
+          "shop_creator_info": {
+            "user_id": "6545725378445492225",
+            "role": 1
+          }
+        },
+        "label_group": null,
+        "product_id_str": "1730396779767695974",
+        "chain_key": "",
+        "sold_count": 51,
+        "promotion_items": [
+          {
+            "activity_id": "7395091530496608005",
+            "activity_name": "ลด 70% ",
+            "subheaders": null,
+            "icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "style": 2,
+            "activity_type": 11,
+            "voucher_id": "0",
+            "dark_icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "extra_property": [
+              {
+                "property_name": "emphasize_icon",
+                "property_value": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "property_type": 1
+              },
+              {
+                "property_name": "emphasize_name",
+                "property_value": "ลูกค้าใหม่",
+                "property_type": 1
+              },
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          },
+          {
+            "subheaders": null,
+            "icon": {
+              "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png",
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+              ],
+              "width": 240,
+              "height": 72,
+              "url_prefix": null
+            },
+            "style": 2004,
+            "activity_type": 1003,
+            "dark_icon": {
+              "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png",
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+              ],
+              "width": 240,
+              "height": 72,
+              "url_prefix": null
+            },
+            "extra_property": [
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "16",
+                "property_type": 1
+              }
+            ]
+          },
+          {
+            "subheaders": null,
+            "icon": {
+              "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png",
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+              ],
+              "width": 189,
+              "height": 54,
+              "url_prefix": null
+            },
+            "style": 2003,
+            "activity_type": 1003,
+            "dark_icon": {
+              "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png",
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+              ],
+              "width": 189,
+              "height": 54,
+              "url_prefix": null
+            },
+            "extra_property": [
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "16",
+                "property_type": 1
+              }
+            ]
+          }
+        ],
+        "promotion_logos": [],
+        "currency_symbol": "฿",
+        "format_price_number": "300.00",
+        "format_origin_price_number": "450.00",
+        "discount": "33",
+        "product_rating": "5",
+        "sell_points": null,
+        "is_from_recommendation": false,
+        "long_img": null,
+        "biz_type": 0,
+        "format_discount": "33%",
+        "price_label_items": [],
+        "warehouse_label_items": null,
+        "skc_list": null,
+        "quick_ab_list": null,
+        "filter_search_image": null,
+        "sku_ids": [
+          "1730396776560364134",
+          "1730396776560429670",
+          "1730396776560495206",
+          "1730396776560560742",
+          "1730396776560626278",
+          "1730396776560691814",
+          "1730396776560757350",
+          "1730396776560822886",
+          "1730396776560888422",
+          "1730396776560953958",
+          "1730396784980101734",
+          "1730396784980167270",
+          "1730396784980232806",
+          "1730396784980298342",
+          "1730396784980363878",
+          "1730396784980429414",
+          "1730396784980494950",
+          "1730396784980560486",
+          "1730396784980626022",
+          "1730396784980691558",
+          "1730396784980757094",
+          "1730396784980822630",
+          "1730396784980888166",
+          "1730396784980953702"
+        ],
+        "search_card_add_button_ui": 0,
+        "add_to_cart_button": {
+          "status": 0,
+          "click_hint": "สินค้าจำหน่ายหมดแล้ว",
+          "desc": "เพิ่มลงรถเข็น"
+        },
+        "review_count": 14,
+        "title_show_line": 2,
+        "line_position_order": null,
+        "promotion_labels": [
+          {
+            "id": "7395091530496608005",
+            "label_type": 11,
+            "text": "ลด 70% ",
+            "extra_text": "ลูกค้าใหม่",
+            "icon": {
+              "label_image_light": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              },
+              "label_image_dark": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              }
+            },
+            "default_style": 2,
+            "status": 0,
+            "claimed_status": 0,
+            "da_info": "{\"coupon_type\":\"0\",\"coupon_name\":\"70\",\"threshold_amount\":\"100\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"platform\\\",\\\"business_type\\\":\\\"min_spend_discount\\\",\\\"user_type\\\":\\\"platform_new_user\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"platform\",\"coupon_style\":\"\",\"shop_id\":\"\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7395091530496608005\",\"task_type\":\"no\",\"residual_claim_quantity\":\"465333\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":1,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"algorithm_product_voucher\"}",
+            "feature": [
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          }
+        ],
+        "promotion_stickers": [
+          {
+            "double_image": {
+              "light": {
+                "height": 72,
+                "width": 240,
+                "thumb_url_list": null,
+                "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png",
+                "url_list": [
+                  "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                  "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+                ]
+              },
+              "dark": {
+                "height": 72,
+                "width": 240,
+                "thumb_url_list": null,
+                "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png",
+                "url_list": [
+                  "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                  "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+                ]
+              }
+            },
+            "single_image": {
+              "light": {
+                "height": 54,
+                "width": 189,
+                "thumb_url_list": null,
+                "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png",
+                "url_list": [
+                  "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                  "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+                ]
+              },
+              "dark": {
+                "height": 54,
+                "width": 189,
+                "thumb_url_list": null,
+                "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png",
+                "url_list": [
+                  "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                  "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+                ]
+              }
+            },
+            "sticker_type": 1003,
+            "feature": [
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "16",
+                "property_type": 1
+              }
+            ],
+            "label_da_info": "promotion_label_1003"
+          }
+        ],
+        "buy_now_button": {
+          "status": 0,
+          "desc": "ซื้อเลย"
+        },
+        "view_in_shop_button": {
+          "status": 0,
+          "desc": "ดูในร้านค้า",
+          "schema": "aweme://ec/mall?previous_page=homepage_hot&mall_extra_info=%7B%22mall_landing_page%22%3A%22mallhalfpdp%22%2C%22mall_homepage_visited_type%22%3A%222%22%7D&landing_deeplink=aweme%3A%2F%2Fec%2Fpdp%3Fbiz_type%3D0%26fullScreen%3Dfalse%26orderRequestParams%3D%257B%257D%26requestParams%3D%257B%2522product_id%2522%253A%255B%25221730396779767695974%2522%255D%257D%26visitReportParams%3D%257B%2522chain_key%2522%253A%2522%2522%252C%2522material_id%2522%253A%25221730396779767695974%2522%252C%2522material_type%2522%253A1%252C%2522seller_id%2522%253A%25227494766250498230886%2522%257D&need_overlay=1&after_landing_draw=1"
+        }
+      },
+      "search_result_id": "1730396779767695974",
+      "content_card_style": 0
+    },
+    {
+      "type": 1,
+      "product_info": {
+        "product_id": 1730077325519588000,
+        "title": "POP MARTถุงป๊อปมาร์ทแบบหนาโปร่งใสสูงถุงเก็บ PVC ใสแบบปิดสำหรับจัดแสดงนอกบ้าน  PVC bag",
+        "cover": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/38d450c554ee40ed97944baca7aa8601~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+        "img": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/38d450c554ee40ed97944baca7aa8601~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/38d450c554ee40ed97944baca7aa8601~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136"
+        ],
+        "price": 0,
+        "currency": "THB",
+        "elastic_img": null,
+        "source": "desktop",
+        "format_price": "฿30.50",
+        "platform": 5,
+        "schema": "aweme://ec/pdp?biz_type=0&fullScreen=false&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730077325519588186%22%5D%7D&visitReportParams=%7B%22chain_key%22%3A%22%22%2C%22material_id%22%3A%221730077325519588186%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227494962817303743322%22%7D",
+        "celling_price": "48.8",
+        "floor_price": "30.5",
+        "source_from": 0,
+        "seller_product_info": {
+          "seller_id": 7494962817303743000,
+          "seller_name": "Moyesli",
+          "icon": {
+            "uri": "tos-maliva-i-o3syd03w52-us/a5f01c0c2b1b488c964a914bb1723a64",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/a5f01c0c2b1b488c964a914bb1723a64~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/a5f01c0c2b1b488c964a914bb1723a64~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039"
+            ],
+            "width": 300,
+            "height": 300,
+            "url_prefix": null
+          },
+          "seller_id_str": "7494962817303743322",
+          "shop_status": 2,
+          "shop_selling_point": null,
+          "shop_creator_info": {
+            "user_id": "6720586642535859201",
+            "role": 1
+          }
+        },
+        "label_group": null,
+        "product_id_str": "1730077325519588186",
+        "chain_key": "",
+        "sold_count": 4769,
+        "promotion_items": [
+          {
+            "activity_id": "7395091530496608005",
+            "activity_name": "ลด 70% ",
+            "subheaders": null,
+            "style": 8,
+            "activity_type": 6,
+            "voucher_id": "0",
+            "extra_property": [],
+            "label_da_info": "promotion_label_6"
+          },
+          {
+            "subheaders": null,
+            "icon": {
+              "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png",
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+              ],
+              "width": 240,
+              "height": 72,
+              "url_prefix": null
+            },
+            "style": 2004,
+            "activity_type": 1003,
+            "dark_icon": {
+              "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png",
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+              ],
+              "width": 240,
+              "height": 72,
+              "url_prefix": null
+            },
+            "extra_property": [
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "16",
+                "property_type": 1
+              },
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "8",
+                "property_type": 1
+              }
+            ]
+          },
+          {
+            "subheaders": null,
+            "icon": {
+              "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png",
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+              ],
+              "width": 189,
+              "height": 54,
+              "url_prefix": null
+            },
+            "style": 2003,
+            "activity_type": 1003,
+            "dark_icon": {
+              "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png",
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+              ],
+              "width": 189,
+              "height": 54,
+              "url_prefix": null
+            },
+            "extra_property": [
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "16",
+                "property_type": 1
+              },
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "8",
+                "property_type": 1
+              }
+            ]
+          }
+        ],
+        "promotion_logos": [
+          {
+            "image": {
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/aeb6ccda0b41461f9f896ce980857829~tplv-aphluv4xwc-origin-image.image?from=1476391136",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/aeb6ccda0b41461f9f896ce980857829~tplv-aphluv4xwc-origin-image.image?from=1476391136"
+              ],
+              "width": 201,
+              "height": 45,
+              "url_prefix": null
+            },
+            "promotion_id": "AG 5th batch 0830 TH",
+            "dark_mode_image": {
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/2fa9ef5803ef425faa99526337f4eb1a~tplv-aphluv4xwc-origin-image.image?from=1476391136",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/2fa9ef5803ef425faa99526337f4eb1a~tplv-aphluv4xwc-origin-image.image?from=1476391136"
+              ],
+              "width": 201,
+              "height": 45,
+              "url_prefix": null
+            },
+            "promotion_logo_type": 2,
+            "label_da_info": "promotion_logo_2"
+          }
+        ],
+        "currency_symbol": "฿",
+        "format_price_number": "30.50",
+        "format_origin_price_number": "50.00",
+        "discount": "39",
+        "product_rating": "4.9",
+        "sell_points": [
+          {
+            "type": 13,
+            "selling_point_text": "มีการดู 31.5K+ ครั้งใน 30 วัน",
+            "type_name": "view_pdp_num_30d",
+            "cpvb_based_list": null,
+            "statistic_product_uv_based": {
+              "uv": 31570
+            },
+            "selling_point_id": "kg_statistic_201ede60e61ce4624678ee229a1adc0d",
+            "is_intelligent_selling_point": true,
+            "selling_point_category_name": "statistic",
+            "selling_point_text_num": "31570",
+            "selling_point_show_id": ""
+          }
+        ],
+        "is_from_recommendation": false,
+        "long_img": null,
+        "biz_type": 0,
+        "format_discount": "39%",
+        "price_label_items": [],
+        "warehouse_label_items": null,
+        "skc_list": null,
+        "quick_ab_list": null,
+        "filter_search_image": null,
+        "sku_ids": [
+          "1730705880926489434",
+          "1730705864308460378",
+          "1730705864308525914",
+          "1730705864308591450",
+          "1730705864308656986",
+          "1730705864308722522",
+          "1730705864308788058",
+          "1730705864308853594",
+          "1730705864308919130",
+          "1730705864308984666",
+          "1730705864309050202",
+          "1730705864309115738",
+          "1730705864309181274",
+          "1730705864309246810"
+        ],
+        "search_card_add_button_ui": 0,
+        "add_to_cart_button": {
+          "status": 0,
+          "click_hint": "สินค้าจำหน่ายหมดแล้ว",
+          "desc": "เพิ่มลงรถเข็น"
+        },
+        "review_count": 630,
+        "title_show_line": 2,
+        "line_position_order": null,
+        "promotion_labels": [
+          {
+            "id": "7395091530496608005",
+            "label_type": 6,
+            "text": "ลด 70% ",
+            "default_style": 8,
+            "status": 0,
+            "claimed_status": 0,
+            "label_style": {
+              "overall": {
+                "light": "border: 0.5px solid rgba(0,0, 0, 0);background-color: rgba(254, 44, 85, 0.12);border-radius: 4px;",
+                "dark": "border: 0.5px solid rgba(0,0, 0, 0);background-color: rgba(255, 59, 92, 0.34);border-radius: 4px;"
+              },
+              "text": {
+                "light": "color: #E10543;",
+                "dark": "color: #FFCCD6;"
+              },
+              "extra_text": {
+                "light": "color: #E10543;",
+                "dark": "color: #FFCCD6;"
+              },
+              "countdown": {
+                "light": "color: #FFFFF1;",
+                "dark": "color: #FFFFF1;"
+              },
+              "ignore_icon": false,
+              "ignore_suffix_icon": false,
+              "rtl_icon": false,
+              "rtl_suffix_icon": false
+            },
+            "da_info": "{\"coupon_type\":\"0\",\"coupon_name\":\"70\",\"threshold_amount\":\"100\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"platform\\\",\\\"business_type\\\":\\\"min_spend_discount\\\",\\\"user_type\\\":\\\"platform_new_user\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"platform\",\"coupon_style\":\"\",\"shop_id\":\"\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7395091530496608005\",\"task_type\":\"no\",\"residual_claim_quantity\":\"465333\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":1,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"algorithm_product_voucher\"}",
+            "label_da_info": "promotion_label_6"
+          }
+        ],
+        "promotion_stickers": [
+          {
+            "double_image": {
+              "light": {
+                "height": 72,
+                "width": 240,
+                "thumb_url_list": null,
+                "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png",
+                "url_list": [
+                  "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                  "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+                ]
+              },
+              "dark": {
+                "height": 72,
+                "width": 240,
+                "thumb_url_list": null,
+                "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png",
+                "url_list": [
+                  "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                  "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+                ]
+              }
+            },
+            "single_image": {
+              "light": {
+                "height": 54,
+                "width": 189,
+                "thumb_url_list": null,
+                "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png",
+                "url_list": [
+                  "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                  "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+                ]
+              },
+              "dark": {
+                "height": 54,
+                "width": 189,
+                "thumb_url_list": null,
+                "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png",
+                "url_list": [
+                  "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                  "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+                ]
+              }
+            },
+            "sticker_type": 1003,
+            "feature": [
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "16",
+                "property_type": 1
+              },
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "8",
+                "property_type": 1
+              }
+            ],
+            "label_da_info": "promotion_label_1003"
+          }
+        ],
+        "buy_now_button": {
+          "status": 0,
+          "desc": "ซื้อเลย"
+        },
+        "view_in_shop_button": {
+          "status": 0,
+          "desc": "ดูในร้านค้า",
+          "schema": "aweme://ec/mall?previous_page=homepage_hot&mall_extra_info=%7B%22mall_landing_page%22%3A%22mallhalfpdp%22%2C%22mall_homepage_visited_type%22%3A%222%22%7D&landing_deeplink=aweme%3A%2F%2Fec%2Fpdp%3Fbiz_type%3D0%26fullScreen%3Dfalse%26orderRequestParams%3D%257B%257D%26requestParams%3D%257B%2522product_id%2522%253A%255B%25221730077325519588186%2522%255D%257D%26visitReportParams%3D%257B%2522chain_key%2522%253A%2522%2522%252C%2522material_id%2522%253A%25221730077325519588186%2522%252C%2522material_type%2522%253A1%252C%2522seller_id%2522%253A%25227494962817303743322%2522%257D&need_overlay=1&after_landing_draw=1"
+        }
+      },
+      "search_result_id": "1730077325519588186",
+      "pseudo_ad_struct": {
+        "creative_id": 1805280446662706,
+        "ad_id": 1805280444562482,
+        "log_extra": "{\"ad_price\":\"ZrZjHv_nN1VmtmMe_-c3VdMGBgwLDir6HA7_2Q\",\"app_id\":1233,\"country_id\":\"DE\",\"cu_rank\":7,\"device_id\":7400304845671286277,\"ecom_card_type\":1,\"no_roi2_rank\":15,\"no_roi2_send\":0,\"offset\":0,\"price\":297,\"priority_region\":\"TH\",\"query\":\"popmart\",\"req_id\":\"202408091842366872F74E0C7F759497C7\",\"rit\":11233533,\"roi2_alpha\":1,\"search_id\":\"202408091842366872F74E0C7F759497C7\",\"send_dc\":\"va\",\"spu_id\":1730077325519588186,\"store_region\":\"TH\",\"uid\":0,\"unity_price\":8,\"usd_exch_currency\":35,\"user_id\":0,\"ut\":12}"
+      },
+      "content_card_style": 0
+    },
+    {
+      "type": 1,
+      "product_info": {
+        "product_id": 1730444804153379800,
+        "title": "พวงกุญแจเปลือกป้องกัน, MollyV1 V2 V3 วัสดุอะครีลิคใส, คอลเลกชันขนาดใหญ่, ป๊อปมาร์ต, ป๊อปมาร์ต, กันฝุ่น, 100%",
+        "cover": "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/d246e96555fa45c98f89a0efe1294457~tplv-aphluv4xwc-crop-webp:400:400.webp?from=1476391136",
+        "img": [
+          "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/d246e96555fa45c98f89a0efe1294457~tplv-aphluv4xwc-crop-webp:400:400.webp?from=1476391136",
+          "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/d246e96555fa45c98f89a0efe1294457~tplv-aphluv4xwc-crop-webp:400:400.webp?from=1476391136"
+        ],
+        "price": 0,
+        "currency": "THB",
+        "elastic_img": null,
+        "source": "global_product",
+        "format_price": "฿88.00",
+        "platform": 5,
+        "schema": "aweme://ec/pdp?biz_type=0&fullScreen=false&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730444804153379799%22%5D%7D&visitReportParams=%7B%22chain_key%22%3A%22%22%2C%22material_id%22%3A%221730444804153379799%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227495810904402332631%22%7D",
+        "celling_price": "98",
+        "floor_price": "88",
+        "source_from": 0,
+        "seller_product_info": {
+          "seller_id": 7495810904402333000,
+          "seller_name": "baodan888",
+          "icon": {
+            "uri": "tos-alisg-i-aphluv4xwc-sg/bd8d5648d4d246fd84b6427135f6ce45",
+            "url_list": [
+              "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/bd8d5648d4d246fd84b6427135f6ce45~tplv-aphluv4xwc-resize-png:300:300.png?from=2422056039",
+              "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/bd8d5648d4d246fd84b6427135f6ce45~tplv-aphluv4xwc-resize-png:300:300.png?from=2422056039"
+            ],
+            "width": 300,
+            "height": 300,
+            "url_prefix": null
+          },
+          "seller_id_str": "7495810904402332631",
+          "shop_status": 2,
+          "shop_selling_point": null,
+          "shop_creator_info": {
+            "user_id": "7385852652616729618",
+            "role": 1
+          }
+        },
+        "label_group": null,
+        "product_id_str": "1730444804153379799",
+        "chain_key": "",
+        "sold_count": 535,
+        "promotion_items": [
+          {
+            "activity_id": "7395091514143508229",
+            "activity_name": "ลด 56% ",
+            "subheaders": null,
+            "style": 8,
+            "activity_type": 6,
+            "voucher_id": "0",
+            "extra_property": [],
+            "label_da_info": "promotion_label_6"
+          },
+          {
+            "subheaders": null,
+            "icon": {
+              "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png",
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+              ],
+              "width": 240,
+              "height": 72,
+              "url_prefix": null
+            },
+            "style": 2004,
+            "activity_type": 1003,
+            "dark_icon": {
+              "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png",
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+              ],
+              "width": 240,
+              "height": 72,
+              "url_prefix": null
+            },
+            "extra_property": [
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "16",
+                "property_type": 1
+              },
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "8",
+                "property_type": 1
+              }
+            ]
+          },
+          {
+            "subheaders": null,
+            "icon": {
+              "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png",
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+              ],
+              "width": 189,
+              "height": 54,
+              "url_prefix": null
+            },
+            "style": 2003,
+            "activity_type": 1003,
+            "dark_icon": {
+              "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png",
+              "url_list": [
+                "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+              ],
+              "width": 189,
+              "height": 54,
+              "url_prefix": null
+            },
+            "extra_property": [
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "16",
+                "property_type": 1
+              },
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "8",
+                "property_type": 1
+              }
+            ]
+          }
+        ],
+        "promotion_logos": [],
+        "currency_symbol": "฿",
+        "format_price_number": "88.00",
+        "format_origin_price_number": "235.00",
+        "discount": "63",
+        "product_rating": "4.8",
+        "sell_points": [
+          {
+            "type": 29,
+            "selling_point_text": "ซื้อสินค้าที่ได้รับคะแนนรีวิวสูง",
+            "type_name": "empty",
+            "cpvb_based_list": null,
+            "selling_point_id": "empty",
+            "is_intelligent_selling_point": true,
+            "selling_point_category_name": "empty",
+            "selling_point_text_num": "",
+            "selling_point_show_id": ""
+          }
+        ],
+        "is_from_recommendation": false,
+        "long_img": null,
+        "biz_type": 0,
+        "format_discount": "63%",
+        "price_label_items": [],
+        "warehouse_label_items": null,
+        "skc_list": null,
+        "quick_ab_list": null,
+        "filter_search_image": null,
+        "sku_ids": [
+          "1730444804153445335",
+          "1730661594515475415",
+          "1730661594515540951"
+        ],
+        "search_card_add_button_ui": 0,
+        "add_to_cart_button": {
+          "status": 0,
+          "click_hint": "สินค้าจำหน่ายหมดแล้ว",
+          "desc": "เพิ่มลงรถเข็น"
+        },
+        "review_count": 29,
+        "title_show_line": 2,
+        "line_position_order": null,
+        "promotion_labels": [
+          {
+            "id": "7395091514143508229",
+            "label_type": 6,
+            "text": "ลด 56% ",
+            "default_style": 8,
+            "status": 0,
+            "claimed_status": 0,
+            "label_style": {
+              "overall": {
+                "light": "border: 0.5px solid rgba(0,0, 0, 0);background-color: rgba(254, 44, 85, 0.12);border-radius: 4px;",
+                "dark": "border: 0.5px solid rgba(0,0, 0, 0);background-color: rgba(255, 59, 92, 0.34);border-radius: 4px;"
+              },
+              "text": {
+                "light": "color: #E10543;",
+                "dark": "color: #FFCCD6;"
+              },
+              "extra_text": {
+                "light": "color: #E10543;",
+                "dark": "color: #FFCCD6;"
+              },
+              "countdown": {
+                "light": "color: #FFFFF1;",
+                "dark": "color: #FFFFF1;"
+              },
+              "ignore_icon": false,
+              "ignore_suffix_icon": false,
+              "rtl_icon": false,
+              "rtl_suffix_icon": false
+            },
+            "da_info": "{\"coupon_type\":\"0\",\"coupon_name\":\"56\",\"threshold_amount\":\"100\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"platform\\\",\\\"business_type\\\":\\\"min_spend_discount\\\",\\\"user_type\\\":\\\"platform_new_user\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"platform\",\"coupon_style\":\"\",\"shop_id\":\"\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7395091514143508229\",\"task_type\":\"no\",\"residual_claim_quantity\":\"670579\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":1,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"algorithm_product_voucher\"}",
+            "label_da_info": "promotion_label_6"
+          }
+        ],
+        "promotion_stickers": [
+          {
+            "double_image": {
+              "light": {
+                "height": 72,
+                "width": 240,
+                "thumb_url_list": null,
+                "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png",
+                "url_list": [
+                  "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                  "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+                ]
+              },
+              "dark": {
+                "height": 72,
+                "width": 240,
+                "thumb_url_list": null,
+                "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png",
+                "url_list": [
+                  "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                  "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-double.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+                ]
+              }
+            },
+            "single_image": {
+              "light": {
+                "height": 54,
+                "width": 189,
+                "thumb_url_list": null,
+                "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png",
+                "url_list": [
+                  "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                  "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+                ]
+              },
+              "dark": {
+                "height": 54,
+                "width": 189,
+                "thumb_url_list": null,
+                "uri": "tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png",
+                "url_list": [
+                  "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591",
+                  "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/product-card-tag/sfp-TH-single.png~tplv-aphluv4xwc-origin-png.png?from=1351027591"
+                ]
+              }
+            },
+            "sticker_type": 1003,
+            "feature": [
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "16",
+                "property_type": 1
+              },
+              {
+                "property_name": "origin_activity_type",
+                "property_value": "8",
+                "property_type": 1
+              }
+            ],
+            "label_da_info": "promotion_label_1003"
+          }
+        ],
+        "buy_now_button": {
+          "status": 0,
+          "desc": "ซื้อเลย"
+        },
+        "view_in_shop_button": {
+          "status": 0,
+          "desc": "ดูในร้านค้า",
+          "schema": "aweme://ec/mall?previous_page=homepage_hot&mall_extra_info=%7B%22mall_landing_page%22%3A%22mallhalfpdp%22%2C%22mall_homepage_visited_type%22%3A%222%22%7D&landing_deeplink=aweme%3A%2F%2Fec%2Fpdp%3Fbiz_type%3D0%26fullScreen%3Dfalse%26orderRequestParams%3D%257B%257D%26requestParams%3D%257B%2522product_id%2522%253A%255B%25221730444804153379799%2522%255D%257D%26visitReportParams%3D%257B%2522chain_key%2522%253A%2522%2522%252C%2522material_id%2522%253A%25221730444804153379799%2522%252C%2522material_type%2522%253A1%252C%2522seller_id%2522%253A%25227495810904402332631%2522%257D&need_overlay=1&after_landing_draw=1"
+        }
+      },
+      "search_result_id": "1730444804153379799",
+      "content_card_style": 0
+    },
+    {
+      "type": 1,
+      "product_info": {
+        "product_id": 1730635003979925500,
+        "title": "กล่องปริศนา ซีรีส์ PopMart",
+        "cover": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/623f5865a3a0425eaf9af3287f85d5fd~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+        "img": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/623f5865a3a0425eaf9af3287f85d5fd~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/623f5865a3a0425eaf9af3287f85d5fd~tplv-o3syd03w52-crop-webp:400:400.webp?from=1476391136"
+        ],
+        "price": 0,
+        "currency": "THB",
+        "elastic_img": null,
+        "source": "global_product",
+        "format_price": "฿219.87",
+        "platform": 5,
+        "schema": "aweme://ec/pdp?biz_type=0&fullScreen=false&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730635003979925629%22%5D%7D&visitReportParams=%7B%22chain_key%22%3A%22%22%2C%22material_id%22%3A%221730635003979925629%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%228647753044868891773%22%7D",
+        "celling_price": "508.43",
+        "floor_price": "219.87",
+        "source_from": 0,
+        "seller_product_info": {
+          "seller_id": 8647753044868892000,
+          "seller_name": "Yuedun Shop",
+          "icon": {
+            "uri": "tos-maliva-i-o3syd03w52-us/a0499006116a47deb9f66d838557359d",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/a0499006116a47deb9f66d838557359d~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/a0499006116a47deb9f66d838557359d~tplv-o3syd03w52-resize-png:300:300.png?from=2422056039"
+            ],
+            "width": 300,
+            "height": 300,
+            "url_prefix": null
+          },
+          "seller_id_str": "8647753044868891773",
+          "shop_status": 2,
+          "shop_selling_point": null
+        },
+        "label_group": null,
+        "product_id_str": "1730635003979925629",
+        "chain_key": "",
+        "sold_count": 0,
+        "promotion_items": [
+          {
+            "activity_id": "7395091514143508229",
+            "activity_name": "ลด 56% ",
+            "subheaders": null,
+            "icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "style": 2,
+            "activity_type": 11,
+            "voucher_id": "0",
+            "dark_icon": {
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ],
+              "width": 800,
+              "height": 800,
+              "url_prefix": null
+            },
+            "extra_property": [
+              {
+                "property_name": "emphasize_icon",
+                "property_value": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "property_type": 1
+              },
+              {
+                "property_name": "emphasize_name",
+                "property_value": "ลูกค้าใหม่",
+                "property_type": 1
+              },
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          }
+        ],
+        "promotion_logos": [],
+        "currency_symbol": "฿",
+        "format_price_number": "219.87",
+        "format_origin_price_number": "454.40",
+        "discount": "52",
+        "sell_points": null,
+        "is_from_recommendation": false,
+        "long_img": null,
+        "biz_type": 0,
+        "format_discount": "52%",
+        "price_label_items": [],
+        "warehouse_label_items": null,
+        "skc_list": null,
+        "quick_ab_list": null,
+        "filter_search_image": null,
+        "sku_ids": [
+          "1730635003979991165",
+          "1730635003980056701",
+          "1730635003980122237",
+          "1730635003980187773",
+          "1730635003980253309",
+          "1730635003980318845",
+          "1730635003980384381",
+          "1730635003980449917",
+          "1730635003980515453",
+          "1730635003980580989",
+          "1730635003980646525",
+          "1730635003980712061",
+          "1730635003980777597"
+        ],
+        "search_card_add_button_ui": 0,
+        "add_to_cart_button": {
+          "status": 0,
+          "click_hint": "สินค้าจำหน่ายหมดแล้ว",
+          "desc": "เพิ่มลงรถเข็น"
+        },
+        "title_show_line": 2,
+        "line_position_order": null,
+        "promotion_labels": [
+          {
+            "id": "7395091514143508229",
+            "label_type": 11,
+            "text": "ลด 56% ",
+            "extra_text": "ลูกค้าใหม่",
+            "icon": {
+              "label_image_light": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              },
+              "label_image_dark": {
+                "height": 800,
+                "width": 800,
+                "mimetype": "",
+                "thumb_uri": "",
+                "thumb_url_list": null,
+                "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+                "url_list": [
+                  "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                  "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+                ]
+              }
+            },
+            "default_style": 2,
+            "status": 0,
+            "claimed_status": 0,
+            "da_info": "{\"coupon_type\":\"0\",\"coupon_name\":\"56\",\"threshold_amount\":\"100\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"platform\\\",\\\"business_type\\\":\\\"min_spend_discount\\\",\\\"user_type\\\":\\\"platform_new_user\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"platform\",\"coupon_style\":\"\",\"shop_id\":\"\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7395091514143508229\",\"task_type\":\"no\",\"residual_claim_quantity\":\"670579\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":1,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"algorithm_product_voucher\"}",
+            "feature": [
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1",
+                "property_type": 0
+              }
+            ],
+            "label_da_info": "promotion_label_11"
+          }
+        ],
+        "buy_now_button": {
+          "status": 0,
+          "desc": "ซื้อเลย"
+        },
+        "view_in_shop_button": {
+          "status": 0,
+          "desc": "ดูในร้านค้า",
+          "schema": "aweme://ec/mall?previous_page=homepage_hot&mall_extra_info=%7B%22mall_landing_page%22%3A%22mallhalfpdp%22%2C%22mall_homepage_visited_type%22%3A%222%22%7D&landing_deeplink=aweme%3A%2F%2Fec%2Fpdp%3Fbiz_type%3D0%26fullScreen%3Dfalse%26orderRequestParams%3D%257B%257D%26requestParams%3D%257B%2522product_id%2522%253A%255B%25221730635003979925629%2522%255D%257D%26visitReportParams%3D%257B%2522chain_key%2522%253A%2522%2522%252C%2522material_id%2522%253A%25221730635003979925629%2522%252C%2522material_type%2522%253A1%252C%2522seller_id%2522%253A%25228647753044868891773%2522%257D&need_overlay=1&after_landing_draw=1"
+        }
+      },
+      "search_result_id": "1730635003979925629",
+      "content_card_style": 0
+    }
+  ],
+  "has_more": true,
+  "cursor": 10
+}

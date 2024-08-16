@@ -1,0 +1,1011 @@
+{
+  "products": [
+    {
+      "product_id": "1730009583784397299",
+      "product_name": "TCL เครื่องซักผ้า 2 ถัง รุ่น WT859FTTW ขนาด 14 กิโลกรัม พร้อมด้วยถังปั่นหมาดระบบ Air Dry",
+      "product_sold_count": 956,
+      "product_cover": {
+        "height": 500,
+        "width": 500,
+        "uri": "tos-maliva-i-o3syd03w52-us/73e6b09a7b0e4da5a1cc19eec6207433",
+        "url_list": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/73e6b09a7b0e4da5a1cc19eec6207433~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/73e6b09a7b0e4da5a1cc19eec6207433~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398"
+        ]
+      },
+      "promotion_view": {
+        "promotion_items": [
+          {
+            "id": "",
+            "name": "จัดส่งฟรี",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 10,
+            "type": 8,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "log_extra": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"promotion_label_level\":\"2\"}"
+          },
+          {
+            "id": "7391796434364581637",
+            "name": "ข้อเสนอ",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 7,
+            "type": 1,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "log_extra": "{\"campaign_id\":\"7391796434364581637\",\"campaign_type\":\"1\",\"campaign_channel\":\"all\",\"campaign_user_tag\":\"all\",\"promotion_label_level\":\"2\",\"campaign_cost_role\":\"cofund\",\"activity_name\":\"1\"}"
+          }
+        ]
+      },
+      "format_origin_price": "฿10,990.00",
+      "format_available_price": "฿4,155.00",
+      "pdp_schema": "aweme://ec/pdp?biz_type=0&fullScreen=true&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730009583784397299%22%5D%2C%22ab_img%22%3Afalse%2C%22traffic_signature%22%3A%22%7B%5C%22scene%5C%22%3A%5C%22Default.Showcase.Profile_Page_Showcase_Feeds.Common%5C%22%7D%22%7D&visitReportParams=%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%22Nz%2FdwsZhT05y4DwWWGD%2BBifBVkwdytjjNwHtwH55beYAZYN%2BZCsSx%2FkNL5JtE%2FExghBZe3JOEemtPqMcX9U7j%2FX3lSyexb1ewwUZbQ%3D%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%2265I09nNwJqljlTgXo4CKcOnwJMFuzqL5dp%2BHOCeCbCZtQ05HKR85uh8NekAru0S86gUMURl6qlztbSZTxo5G9hAys58MyiM89FheXw%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22material_id%22%3A%221730009583784397299%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227494677720033364467%22%7D",
+      "product_source": 5,
+      "discount": "62%",
+      "display_sold_count": "956",
+      "sold_count_info": {
+        "count": "956",
+        "count_info": "ขายแล้ว 956 รายการ"
+      },
+      "promotion_logos": [
+        {
+          "image": {
+            "uri": "",
+            "url_list": [
+              "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/215d965af79e43daa88fc546fc9a8775~tplv-aphluv4xwc-origin-image.image?from=3654586815",
+              "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/215d965af79e43daa88fc546fc9a8775~tplv-aphluv4xwc-origin-image.image?from=3654586815"
+            ],
+            "width": 156,
+            "height": 39
+          },
+          "dark_mode_image": {
+            "uri": "",
+            "url_list": [
+              "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/33cae890db104022a7d0b41310cdd093~tplv-aphluv4xwc-origin-image.image?from=3654586815",
+              "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/33cae890db104022a7d0b41310cdd093~tplv-aphluv4xwc-origin-image.image?from=3654586815"
+            ],
+            "width": 156,
+            "height": 39
+          }
+        }
+      ],
+      "biz_type": 0
+    },
+    {
+      "product_id": "1729623885145410035",
+      "product_name": "[BCD] TCL ตู้เย็นสองประตู รุ่น F118TMS/TMG ขนาด 113 ลิตร 3.9 คิว แข็งแรง จุได้เยอะ ตู้เย็น 3 คิว ปรับเปลี่ยนชั้นวางได้ มีล้อใต้ตู้เย็น ตู้เย็นมินิมอล เคลื่อนย้ายง่าย พร้อมระบบไฟ LED ในตู้ (ไม่มีบริการติดตั้ง)",
+      "product_sold_count": 3507,
+      "product_cover": {
+        "height": 500,
+        "width": 500,
+        "uri": "tos-maliva-i-o3syd03w52-us/92702a322bd34e2c980acea42cff88e1",
+        "url_list": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/92702a322bd34e2c980acea42cff88e1~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/92702a322bd34e2c980acea42cff88e1~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398"
+        ]
+      },
+      "promotion_view": {
+        "promotion_items": [
+          {
+            "id": "",
+            "name": "จัดส่งฟรี",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 10,
+            "type": 8,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "log_extra": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"promotion_label_level\":\"2\"}"
+          },
+          {
+            "id": "7391796434364581637",
+            "name": "ข้อเสนอ",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 7,
+            "type": 1,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "log_extra": "{\"campaign_channel\":\"all\",\"campaign_user_tag\":\"all\",\"campaign_cost_role\":\"cofund\",\"activity_name\":\"1\",\"campaign_id\":\"7391796434364581637\",\"promotion_label_level\":\"2\",\"campaign_type\":\"1\"}"
+          }
+        ]
+      },
+      "format_origin_price": "฿5,990.00",
+      "format_available_price": "฿4,337.00",
+      "pdp_schema": "aweme://ec/pdp?biz_type=0&fullScreen=true&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221729623885145410035%22%5D%2C%22ab_img%22%3Afalse%2C%22traffic_signature%22%3A%22%7B%5C%22scene%5C%22%3A%5C%22Default.Showcase.Profile_Page_Showcase_Feeds.Common%5C%22%7D%22%7D&visitReportParams=%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%22f7sU%2F%2BLmlV7zaUuM25XTA2dbsX%2F37CINmSabvwDqun17McxI4XGVb1JeqFo2yVtOwhV0NEbA%2B%2B%2BwEhdVkI5HtuDHkDEdOd4g6oqUtQ%3D%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%22UPXj%2FaX9KreWX%2FH4c4mAoJukA3xiaGvf2BHwkOLKQl0%2BzzvxYhq1gP8RVHin0YvPlHQQm18n9numZaxspmeuvxbYDmSnRNA13kY4HA%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22material_id%22%3A%221729623885145410035%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227494677720033364467%22%7D",
+      "product_source": 5,
+      "discount": "28%",
+      "display_sold_count": "3507",
+      "sold_count_info": {
+        "count": "3507",
+        "count_info": "ขายแล้ว 3507 รายการ"
+      },
+      "promotion_logos": [
+        {
+          "image": {
+            "uri": "",
+            "url_list": [
+              "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/215d965af79e43daa88fc546fc9a8775~tplv-aphluv4xwc-origin-image.image?from=3654586815",
+              "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/215d965af79e43daa88fc546fc9a8775~tplv-aphluv4xwc-origin-image.image?from=3654586815"
+            ],
+            "width": 156,
+            "height": 39
+          },
+          "dark_mode_image": {
+            "uri": "",
+            "url_list": [
+              "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/33cae890db104022a7d0b41310cdd093~tplv-aphluv4xwc-origin-image.image?from=3654586815",
+              "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/33cae890db104022a7d0b41310cdd093~tplv-aphluv4xwc-origin-image.image?from=3654586815"
+            ],
+            "width": 156,
+            "height": 39
+          }
+        },
+        {
+          "image": {
+            "uri": "tos-maliva-i-o3syd03w52-us/pre-order_light2.png",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_light2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_light2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815"
+            ],
+            "width": 153,
+            "height": 45
+          },
+          "dark_mode_image": {
+            "uri": "tos-maliva-i-o3syd03w52-us/pre-order_dark2.png",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_dark2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_dark2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815"
+            ],
+            "width": 153,
+            "height": 45
+          }
+        }
+      ],
+      "biz_type": 0
+    },
+    {
+      "product_id": "1730517926901025267",
+      "product_name": "TCL ตู้เย็นสองประตู รุ่น F118TMS/TMG ขนาด 113 ลิตร 3.9 คิว แข็งแรง จุได้เยอะ ตู้เย็น 3 คิว ปรับเปลี่ยนชั้นวางได้ มีล้อใต้ตู้เย็น ตู้เย็นมินิมอล เคลื่อนย้ายง่าย พร้อมระบบไฟ LED ในตู้ (ไม่มีบริการติดตั้ง)",
+      "product_sold_count": 504,
+      "product_cover": {
+        "height": 500,
+        "width": 500,
+        "uri": "tos-maliva-i-o3syd03w52-us/92702a322bd34e2c980acea42cff88e1",
+        "url_list": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/92702a322bd34e2c980acea42cff88e1~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/92702a322bd34e2c980acea42cff88e1~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398"
+        ]
+      },
+      "promotion_view": {
+        "promotion_items": [
+          {
+            "id": "",
+            "name": "จัดส่งฟรี",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 10,
+            "type": 8,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "log_extra": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"promotion_label_level\":\"2\"}"
+          },
+          {
+            "id": "7391770729987229446",
+            "name": "ลด ฿ 200",
+            "style": 8,
+            "type": 6,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "voucher_id": "0",
+            "log_extra": "{\"coupon_type\":\"1\",\"coupon_name\":\"200\",\"threshold_amount\":\"2000\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"seller\\\",\\\"business_type\\\":\\\"min_spend_off\\\",\\\"user_type\\\":\\\"all\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"seller\",\"coupon_style\":\"\",\"shop_id\":\"7494677720033364467\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7391770729987229446\",\"task_type\":\"no\",\"residual_claim_quantity\":\"99355\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":0,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"seller_regular_voucher\"}"
+          }
+        ]
+      },
+      "format_origin_price": "฿5,990.00",
+      "format_available_price": "฿4,640.00",
+      "pdp_schema": "aweme://ec/pdp?biz_type=0&fullScreen=true&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730517926901025267%22%5D%2C%22ab_img%22%3Afalse%2C%22traffic_signature%22%3A%22%7B%5C%22scene%5C%22%3A%5C%22Default.Showcase.Profile_Page_Showcase_Feeds.Common%5C%22%7D%22%7D&visitReportParams=%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%22Gf%2F%2FFHLgkUOrQEkVYE04f84y0VylZxgn4qDuEour7%2FX5Ptsxb6LiRriNDRf%2BraXp3CkHXdJ%2BTf0Td2OjZGJ0YqR2ZdEUxPyJi7ToLQ%3D%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%22bTh3FMYDQWCJKq0Vz4gzrppHEikohocWYl6FSFJWDTpFCJUyA7twKMrV1gLQxsEy%2FxK%2Bh2tT1pnWkvhEbEOtEHGxEBwUwNi46Hr2kQ%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22material_id%22%3A%221730517926901025267%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227494677720033364467%22%7D",
+      "product_source": 5,
+      "discount": "23%",
+      "display_sold_count": "504",
+      "sold_count_info": {
+        "count": "504",
+        "count_info": "ขายแล้ว 504 รายการ"
+      },
+      "promotion_logos": [
+        {
+          "image": {
+            "uri": "tos-maliva-i-o3syd03w52-us/pre-order_light2.png",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_light2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_light2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815"
+            ],
+            "width": 153,
+            "height": 45
+          },
+          "dark_mode_image": {
+            "uri": "tos-maliva-i-o3syd03w52-us/pre-order_dark2.png",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_dark2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_dark2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815"
+            ],
+            "width": 153,
+            "height": 45
+          }
+        }
+      ],
+      "biz_type": 0
+    },
+    {
+      "product_id": "1730009601654032883",
+      "product_name": "[BCD] TCL ตู้เย็น 1 ประตู ขนาด 3.2 Q สีเงิน/ขาว จัดส่งฟรี รับประกัน 10 ปี รุ่น RT90XFSDG พร้อมแผงควบคุมอุณหภูมิ เหมาะกับออฟฟิศ ห้องนอน หรือห้องครัว",
+      "product_sold_count": 2225,
+      "product_cover": {
+        "height": 500,
+        "width": 500,
+        "uri": "tos-maliva-i-o3syd03w52-us/552446fa11114b78be76531baaa239be",
+        "url_list": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/552446fa11114b78be76531baaa239be~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/552446fa11114b78be76531baaa239be~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398"
+        ]
+      },
+      "promotion_view": {
+        "promotion_items": [
+          {
+            "id": "",
+            "name": "จัดส่งฟรี",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 10,
+            "type": 8,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "log_extra": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"promotion_label_level\":\"2\"}"
+          },
+          {
+            "id": "7391796434364581637",
+            "name": "ข้อเสนอ",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 7,
+            "type": 1,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "log_extra": "{\"campaign_user_tag\":\"all\",\"campaign_cost_role\":\"cofund\",\"activity_name\":\"1\",\"campaign_id\":\"7391796434364581637\",\"campaign_type\":\"1\",\"campaign_channel\":\"all\",\"promotion_label_level\":\"2\"}"
+          }
+        ]
+      },
+      "format_origin_price": "฿5,990.00",
+      "format_available_price": "฿3,128.00",
+      "pdp_schema": "aweme://ec/pdp?biz_type=0&fullScreen=true&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730009601654032883%22%5D%2C%22ab_img%22%3Afalse%2C%22traffic_signature%22%3A%22%7B%5C%22scene%5C%22%3A%5C%22Default.Showcase.Profile_Page_Showcase_Feeds.Common%5C%22%7D%22%7D&visitReportParams=%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%22VMNoSJ9HzERKap2XIUWao6uQ8nKtPt38teyf9yQBX%2FWvPkhVnE8pMGP8v2QgbMWb8RVN6xdHCTEzBxLCyJXiP0ngSISyGFIfb2U1%2BQ%3D%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%229aZOhLcq0njXzuwiNIFT7Uch02JuFEjXw1NcE4QWir42F2byJP3W3PwFDmjGL%2F4umAx8yRl0sAquEbMsxs6mO3alo6qDo8B%2FTel2ig%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22material_id%22%3A%221730009601654032883%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227494677720033364467%22%7D",
+      "product_source": 5,
+      "discount": "48%",
+      "display_sold_count": "2225",
+      "sold_count_info": {
+        "count": "2225",
+        "count_info": "ขายแล้ว 2225 รายการ"
+      },
+      "promotion_logos": [
+        {
+          "image": {
+            "uri": "",
+            "url_list": [
+              "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/215d965af79e43daa88fc546fc9a8775~tplv-aphluv4xwc-origin-image.image?from=3654586815",
+              "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/215d965af79e43daa88fc546fc9a8775~tplv-aphluv4xwc-origin-image.image?from=3654586815"
+            ],
+            "width": 156,
+            "height": 39
+          },
+          "dark_mode_image": {
+            "uri": "",
+            "url_list": [
+              "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/33cae890db104022a7d0b41310cdd093~tplv-aphluv4xwc-origin-image.image?from=3654586815",
+              "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/33cae890db104022a7d0b41310cdd093~tplv-aphluv4xwc-origin-image.image?from=3654586815"
+            ],
+            "width": 156,
+            "height": 39
+          }
+        }
+      ],
+      "biz_type": 0
+    },
+    {
+      "product_id": "1729992589004343795",
+      "product_name": "TCL T-PRO Premium แอร์ติดผนัง  24,010 BTU ไม่รวมค่าติดตั้ง รุ่น TAC-PROS25 ระบบ inverter Fast cooling เย็นเร็ว 30 วิ บานสวิงรุ่นใหม่ เย็นสบายไร้ลมปะทะ พร้อม คอยล์เย็นเคลือบทองแดง ทนทาน ทำความสะอาดง่าย",
+      "product_sold_count": 173,
+      "product_cover": {
+        "height": 500,
+        "width": 500,
+        "uri": "tos-maliva-i-o3syd03w52-us/ffee399a772b4cf39540b6226593312e",
+        "url_list": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/ffee399a772b4cf39540b6226593312e~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/ffee399a772b4cf39540b6226593312e~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398"
+        ]
+      },
+      "promotion_view": {
+        "promotion_items": [
+          {
+            "id": "",
+            "name": "จัดส่งฟรี",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 10,
+            "type": 8,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "log_extra": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"promotion_label_level\":\"2\"}"
+          },
+          {
+            "id": "7391771398002116357",
+            "name": "ลด ฿ 400",
+            "style": 8,
+            "type": 6,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "voucher_id": "0",
+            "log_extra": "{\"coupon_type\":\"1\",\"coupon_name\":\"400\",\"threshold_amount\":\"2000\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"seller\\\",\\\"business_type\\\":\\\"min_spend_off\\\",\\\"user_type\\\":\\\"all\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"seller\",\"coupon_style\":\"\",\"shop_id\":\"7494677720033364467\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7391771398002116357\",\"task_type\":\"no\",\"residual_claim_quantity\":\"99117\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":0,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"seller_regular_voucher\"}"
+          }
+        ]
+      },
+      "format_origin_price": "฿39,990.00",
+      "format_available_price": "฿19,900.00",
+      "pdp_schema": "aweme://ec/pdp?biz_type=0&fullScreen=true&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221729992589004343795%22%5D%2C%22ab_img%22%3Afalse%2C%22traffic_signature%22%3A%22%7B%5C%22scene%5C%22%3A%5C%22Default.Showcase.Profile_Page_Showcase_Feeds.Common%5C%22%7D%22%7D&visitReportParams=%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%220RUcpcXqAlnZ35NqU23f2CicgxbSi8X9vP3ozBRYIbrYn%2FsgqmvdvEnz455%2B%2F4YvR0P%2BZ4XJtvVFss95fmD2Gp%2FontQxfs6VRw5UIA%3D%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%22TSz84C%2B4ey4iWl0W2eK%2BgUE8eghJ1di02UdOwXrT4%2BmyZN27ddcflGIm5juM7T5cS8mgM8%2Ffwf6hPd46U9rL6P9qG1p6f9rDMLETNQ%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22material_id%22%3A%221729992589004343795%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227494677720033364467%22%7D",
+      "product_source": 5,
+      "discount": "50%",
+      "display_sold_count": "173",
+      "sold_count_info": {
+        "count": "173",
+        "count_info": "ขายแล้ว 173 รายการ"
+      },
+      "biz_type": 0
+    },
+    {
+      "product_id": "1730570496281643507",
+      "product_name": "TCL ตู้เย็น 1 ประตู ขนาด 3.2 Q สีเงิน/ขาว จัดส่งฟรี รับประกัน 10 ปี รุ่น RT90XFSDG พร้อมแผงควบคุมอุณหภูมิ เหมาะกับออฟฟิศ ห้องนอน หรือห้องครัว",
+      "product_sold_count": 53,
+      "product_cover": {
+        "height": 500,
+        "width": 500,
+        "uri": "tos-maliva-i-o3syd03w52-us/552446fa11114b78be76531baaa239be",
+        "url_list": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/552446fa11114b78be76531baaa239be~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/552446fa11114b78be76531baaa239be~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398"
+        ]
+      },
+      "promotion_view": {
+        "promotion_items": [
+          {
+            "id": "",
+            "name": "จัดส่งฟรี",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 10,
+            "type": 8,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "log_extra": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"promotion_label_level\":\"2\"}"
+          },
+          {
+            "id": "7391770466489485062",
+            "name": "ลด ฿ 500",
+            "style": 8,
+            "type": 6,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "voucher_id": "0",
+            "log_extra": "{\"coupon_type\":\"1\",\"coupon_name\":\"500\",\"threshold_amount\":\"2000\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"seller\\\",\\\"business_type\\\":\\\"min_spend_off\\\",\\\"user_type\\\":\\\"all\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"seller\",\"coupon_style\":\"\",\"shop_id\":\"7494677720033364467\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7391770466489485062\",\"task_type\":\"no\",\"residual_claim_quantity\":\"99317\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":0,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"seller_regular_voucher\"}"
+          }
+        ]
+      },
+      "format_origin_price": "฿5,990.00",
+      "format_available_price": "฿5,340.00",
+      "pdp_schema": "aweme://ec/pdp?biz_type=0&fullScreen=true&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730570496281643507%22%5D%2C%22ab_img%22%3Afalse%2C%22traffic_signature%22%3A%22%7B%5C%22scene%5C%22%3A%5C%22Default.Showcase.Profile_Page_Showcase_Feeds.Common%5C%22%7D%22%7D&visitReportParams=%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%22qUCjO%2BtQ%2B1sW7eE7pC77JaJLKj7rp2%2FvJFK5IArMVEgV267iPukpL%2BFcS0jVp2VFkBab%2Fz7mR4ygUY2MqnlN%2FFFGoPh6fmqqa2ctLw%3D%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%22rIb%2FGLHF8X7QPEDkwadFnambPeMfUA34olEgp%2BrSrcaQY9KR0Ac0rvMWuKON0XyuDJeamZ5dCORuA2WmKdB%2Bjal5YFMq3tYbrRvo%2Fw%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22material_id%22%3A%221730570496281643507%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227494677720033364467%22%7D",
+      "product_source": 5,
+      "discount": "11%",
+      "display_sold_count": "53",
+      "sold_count_info": {
+        "count": "53",
+        "count_info": "ขายแล้ว 53 รายการ"
+      },
+      "biz_type": 0
+    },
+    {
+      "product_id": "1730526832701573619",
+      "product_name": "TCL WASH & DRY เครื่องซักผ้าและอบผ้าฝาหน้า รุ่น WT11EPWDG เครื่องซักผ้าฝาหน้า ถังซัก 10 Kg. ถังอบ 7Kg. เครื่องซักผ้า tcl มีมอเตอร์ Inverter Direct Drive ประหยัดไฟ ทำงานเงียบ (ไม่มีบริการติดตั้ง อุปกรณ์ติดตั้งอยู่ใต้เครื่อง)",
+      "product_sold_count": 53,
+      "product_cover": {
+        "height": 500,
+        "width": 500,
+        "uri": "tos-maliva-i-o3syd03w52-us/afd65211fde14eb4a824455afd7bf93f",
+        "url_list": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/afd65211fde14eb4a824455afd7bf93f~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/afd65211fde14eb4a824455afd7bf93f~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398"
+        ]
+      },
+      "promotion_view": {
+        "promotion_items": [
+          {
+            "id": "",
+            "name": "จัดส่งฟรี",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 10,
+            "type": 8,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "log_extra": "{\"delivery_tag\":\"free_shipping\",\"promotion_label_level\":\"2\",\"is_free_shipping\":\"1\"}"
+          }
+        ]
+      },
+      "format_origin_price": "฿19,990.00",
+      "format_available_price": "฿12,490.00",
+      "pdp_schema": "aweme://ec/pdp?biz_type=0&fullScreen=true&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730526832701573619%22%5D%2C%22ab_img%22%3Afalse%2C%22traffic_signature%22%3A%22%7B%5C%22scene%5C%22%3A%5C%22Default.Showcase.Profile_Page_Showcase_Feeds.Common%5C%22%7D%22%7D&visitReportParams=%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%22moYRrEjI%2FTOflHMpa%2FXV04FXxlKkXGQ4AndccnnozeU7Kj9Ytj5YXmmIGoq2VJxhM%2BLe4uR3UGAKeGtlUY1XOmrOQTM3CyAgrJAcfg%3D%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%22y1YDXiYRbH9xYy65bPWyxSiIEGWXrBsleOJeLzCr8ouBQrPGfV8C191wvsToTc4fKbSgGDNSIVLLmsfeYhHGcwbGUyZihVvOB0%2B6RQ%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22material_id%22%3A%221730526832701573619%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227494677720033364467%22%7D",
+      "product_source": 5,
+      "discount": "38%",
+      "display_sold_count": "53",
+      "sold_count_info": {
+        "count": "53",
+        "count_info": "ขายแล้ว 53 รายการ"
+      },
+      "promotion_logos": [
+        {
+          "image": {
+            "uri": "tos-maliva-i-o3syd03w52-us/pre-order_light2.png",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_light2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_light2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815"
+            ],
+            "width": 153,
+            "height": 45
+          },
+          "dark_mode_image": {
+            "uri": "tos-maliva-i-o3syd03w52-us/pre-order_dark2.png",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_dark2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_dark2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815"
+            ],
+            "width": 153,
+            "height": 45
+          }
+        }
+      ],
+      "biz_type": 0
+    },
+    {
+      "product_id": "1729617050887686643",
+      "product_name": "[BCD] TCL WASH & DRY เครื่องซักผ้าและอบผ้าฝาหน้า รุ่น WT11EPWDG เครื่องซักผ้าฝาหน้า ซัก 10 Kg. อบ 7Kg.ตัวเครื่องซักผ้ามีมอเตอร์ Inverter Direct Drive ประหยัดไฟ ทำงานเงียบ (ไม่มีบริการติดตั้ง อุปกรณ์ติดตั้งอยู่ใต้เครื่อง)",
+      "product_sold_count": 4716,
+      "product_cover": {
+        "height": 500,
+        "width": 500,
+        "uri": "tos-maliva-i-o3syd03w52-us/afd65211fde14eb4a824455afd7bf93f",
+        "url_list": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/afd65211fde14eb4a824455afd7bf93f~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/afd65211fde14eb4a824455afd7bf93f~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398"
+        ]
+      },
+      "promotion_view": {
+        "promotion_items": [
+          {
+            "id": "",
+            "name": "จัดส่งฟรี",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 10,
+            "type": 8,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "log_extra": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"promotion_label_level\":\"2\"}"
+          },
+          {
+            "id": "7391796434364581637",
+            "name": "ข้อเสนอ",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 7,
+            "type": 1,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-acgf4d7es9-us/75e63dca73d7219a6884b757dd05c9ba.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "log_extra": "{\"campaign_channel\":\"all\",\"campaign_user_tag\":\"all\",\"promotion_label_level\":\"2\",\"campaign_cost_role\":\"cofund\",\"activity_name\":\"1\",\"campaign_id\":\"7391796434364581637\",\"campaign_type\":\"1\"}"
+          }
+        ]
+      },
+      "format_origin_price": "฿19,990.00",
+      "format_available_price": "฿11,355.00",
+      "pdp_schema": "aweme://ec/pdp?biz_type=0&fullScreen=true&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221729617050887686643%22%5D%2C%22ab_img%22%3Afalse%2C%22traffic_signature%22%3A%22%7B%5C%22scene%5C%22%3A%5C%22Default.Showcase.Profile_Page_Showcase_Feeds.Common%5C%22%7D%22%7D&visitReportParams=%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%22lH08KNyrtLJEodbJGhxDD4MPNewuZ0JTRPLKd2dfoX1zYWZ%2BSEuLQUiWXIFTOAsyQxUO4647nPECaHVB4tHuNm2gn837FJ7xo0KybQ%3D%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%22AUIOJYXwr3PPNEq5XyT%2ByXSUOSVCfqX9KHHWJPYhqpv1Qm4tno%2Fd3Yg8c4MehjKJOBmcP%2FS1zA1Mhz4nrQvJWrZpiEcDW4s5SJ35ww%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22material_id%22%3A%221729617050887686643%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227494677720033364467%22%7D",
+      "product_source": 5,
+      "discount": "43%",
+      "display_sold_count": "4716",
+      "sold_count_info": {
+        "count": "4716",
+        "count_info": "ขายแล้ว 4716 รายการ"
+      },
+      "promotion_logos": [
+        {
+          "image": {
+            "uri": "",
+            "url_list": [
+              "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/215d965af79e43daa88fc546fc9a8775~tplv-aphluv4xwc-origin-image.image?from=3654586815",
+              "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/215d965af79e43daa88fc546fc9a8775~tplv-aphluv4xwc-origin-image.image?from=3654586815"
+            ],
+            "width": 156,
+            "height": 39
+          },
+          "dark_mode_image": {
+            "uri": "",
+            "url_list": [
+              "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/33cae890db104022a7d0b41310cdd093~tplv-aphluv4xwc-origin-image.image?from=3654586815",
+              "https://p19-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/33cae890db104022a7d0b41310cdd093~tplv-aphluv4xwc-origin-image.image?from=3654586815"
+            ],
+            "width": 156,
+            "height": 39
+          }
+        },
+        {
+          "image": {
+            "uri": "tos-maliva-i-o3syd03w52-us/pre-order_light2.png",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_light2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_light2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815"
+            ],
+            "width": 153,
+            "height": 45
+          },
+          "dark_mode_image": {
+            "uri": "tos-maliva-i-o3syd03w52-us/pre-order_dark2.png",
+            "url_list": [
+              "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_dark2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815",
+              "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/pre-order_dark2.png~tplv-o3syd03w52-resize-png:153:45.png?from=3654586815"
+            ],
+            "width": 153,
+            "height": 45
+          }
+        }
+      ],
+      "biz_type": 0
+    },
+    {
+      "product_id": "1729812872128793075",
+      "product_name": "TCL ขาแขวนทีวีติดผนัง รุ่น WMB333 เหมาะสำหรับทีวีขนาด 32-65 นิ้ว",
+      "product_sold_count": 86,
+      "product_cover": {
+        "height": 500,
+        "width": 500,
+        "uri": "tos-maliva-i-o3syd03w52-us/4f8d70451ec545da8d3b572e2d52db84",
+        "url_list": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/4f8d70451ec545da8d3b572e2d52db84~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/4f8d70451ec545da8d3b572e2d52db84~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398"
+        ]
+      },
+      "promotion_view": {
+        "promotion_items": [
+          {
+            "id": "7395091530496608005",
+            "name": "ลด 70% ",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 2,
+            "type": 11,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "voucher_id": "0",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png",
+              "url_list": [
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "extra_property": [
+              {
+                "property_name": "emphasize_icon",
+                "property_value": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/coupon_icon.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              },
+              {
+                "property_name": "emphasize_name",
+                "property_value": "ลูกค้าใหม่"
+              },
+              {
+                "property_name": "strengthen_label",
+                "property_value": "1"
+              }
+            ],
+            "log_extra": "{\"coupon_type\":\"0\",\"coupon_name\":\"70\",\"threshold_amount\":\"100\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"platform\\\",\\\"business_type\\\":\\\"min_spend_discount\\\",\\\"user_type\\\":\\\"platform_new_user\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"platform\",\"coupon_style\":\"\",\"shop_id\":\"\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7395091530496608005\",\"task_type\":\"no\",\"residual_claim_quantity\":\"414625\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":1,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"algorithm_product_voucher\"}"
+          }
+        ]
+      },
+      "format_origin_price": "฿799.00",
+      "format_available_price": "฿649.00",
+      "pdp_schema": "aweme://ec/pdp?biz_type=0&fullScreen=true&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221729812872128793075%22%5D%2C%22ab_img%22%3Afalse%2C%22traffic_signature%22%3A%22%7B%5C%22scene%5C%22%3A%5C%22Default.Showcase.Profile_Page_Showcase_Feeds.Common%5C%22%7D%22%7D&visitReportParams=%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%22X1%2F2Fj1GRejLybMMp8XAG%2Bj%2B7GJpISOopewOtYP3FYjIOYKSqyLDGN0wK%2F6VZW3Wvbo%2FcMuyJ73vux%2Bo8Li8UdbAnBaWpVqMjy4UrQ%3D%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%22FzTSeuylfEF0KXyNBMMv9E43UxP5LNlKgRFlCdFX4BOQdmgEZrF6e1VcSlIIagDzhbVMQpxqbQZPixZqKCIRxSvj98jV2u22JI6TKQ%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22material_id%22%3A%221729812872128793075%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227494677720033364467%22%7D",
+      "product_source": 5,
+      "discount": "19%",
+      "display_sold_count": "86",
+      "sold_count_info": {
+        "count": "86",
+        "count_info": "ขายแล้ว 86 รายการ"
+      },
+      "biz_type": 0
+    },
+    {
+      "product_id": "1730214866755029491",
+      "product_name": "TCL ทีวี 55 นิ้ว LED 4K UHD Google TV รุ่น 55V6B ทีวีดู Netflix ทีวีดู Youtube, Voice search, Edgeless Design, Dolby Audio,HDR10,HDMI 2.1,Dynamic Color Enhancement,AiPQ,Frameless",
+      "product_sold_count": 494,
+      "product_cover": {
+        "height": 500,
+        "width": 500,
+        "uri": "tos-maliva-i-o3syd03w52-us/6cb003693d414798a9eb9a5923c54591",
+        "url_list": [
+          "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/6cb003693d414798a9eb9a5923c54591~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398",
+          "https://p19-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/6cb003693d414798a9eb9a5923c54591~tplv-o3syd03w52-resize-webp:500:500.webp?from=1323722398"
+        ]
+      },
+      "promotion_view": {
+        "promotion_items": [
+          {
+            "id": "",
+            "name": "จัดส่งฟรี",
+            "icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "style": 10,
+            "type": 8,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "dark_icon": {
+              "height": 800,
+              "width": 800,
+              "mimetype": "",
+              "thumb_uri": "",
+              "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+              "url_list": [
+                "https://p16-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299",
+                "https://p19-oec-va.ibyteimg.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-o3syd03w52-resize-png:800:800.png?from=3454340299"
+              ]
+            },
+            "log_extra": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"promotion_label_level\":\"2\"}"
+          },
+          {
+            "id": "7391740249569347333",
+            "name": "ลด ฿ 1500",
+            "style": 8,
+            "type": 6,
+            "countdown": "",
+            "start_time": "",
+            "end_time": "",
+            "status": 0,
+            "price": "",
+            "voucher_id": "0",
+            "log_extra": "{\"coupon_type\":\"1\",\"coupon_name\":\"1500\",\"threshold_amount\":\"9000\",\"coupon_type_info\":\"{\\\"cost_role\\\":\\\"seller\\\",\\\"business_type\\\":\\\"min_spend_off\\\",\\\"user_type\\\":\\\"all\\\",\\\"channel\\\":\\\"all\\\",\\\"task_type\\\":\\\"no\\\",\\\"use_channel\\\":\\\"all\\\",\\\"extra_info\\\":\\\"\\\"}\",\"coupon_cost_role\":\"seller\",\"coupon_style\":\"\",\"shop_id\":\"7494677720033364467\",\"available_limit\":\"\",\"coupon_id\":\"-1\",\"coupon_type_id\":\"7391740249569347333\",\"task_type\":\"no\",\"residual_claim_quantity\":\"99773\",\"unusable_reason_type\":\"\",\"is_from_cashback\":0,\"promotion_label_level\":\"2\",\"promotion_code\":\"\",\"dmp_set_id\":\"no\",\"product_scope\":0,\"rights_cnt\":0,\"rights_content\":\"\",\"source_key\":\"\",\"template_key\":\"seller_regular_voucher\"}"
+          }
+        ]
+      },
+      "format_origin_price": "฿23,990.00",
+      "format_available_price": "฿10,490.00",
+      "pdp_schema": "aweme://ec/pdp?biz_type=0&fullScreen=true&orderRequestParams=%7B%7D&requestParams=%7B%22product_id%22%3A%5B%221730214866755029491%22%5D%2C%22ab_img%22%3Afalse%2C%22traffic_signature%22%3A%22%7B%5C%22scene%5C%22%3A%5C%22Default.Showcase.Profile_Page_Showcase_Feeds.Common%5C%22%7D%22%7D&visitReportParams=%7B%22chain_key%22%3A%22%7B%5C%22cck%5C%22%3A%5C%22aO%2BvxB3zLKCgOTuxxBZkuU2VLjrahbMLe%2FTkGqI%2Bo8VeWTSUW7Ys7d%2B3NPtE8zDeMiRvbbzpPROd8kPk6JTo729xIfALvc110CxPyQ%3D%3D%5C%22%2C%5C%22mck%5C%22%3A%5C%229f%2F1YluqvlUFYZPpwP95mQWptYEZITUymF0aVo3QnuKHP8zyZ55k0rZpSPGrFP59WsHCUoCGD2oJX9MXjgVvjjhSM7Ox%2Fc2DmQ4UkA%3D%3D%5C%22%2C%5C%22v%5C%22%3A1%7D%22%2C%22material_id%22%3A%221730214866755029491%22%2C%22material_type%22%3A1%2C%22seller_id%22%3A%227494677720033364467%22%7D",
+      "product_source": 5,
+      "discount": "56%",
+      "display_sold_count": "494",
+      "sold_count_info": {
+        "count": "494",
+        "count_info": "ขายแล้ว 494 รายการ"
+      },
+      "biz_type": 0
+    }
+  ],
+  "has_more": true,
+  "cursor": "10"
+}
